@@ -1,0 +1,24 @@
+.view-container{
+    margin-top: 40px;
+}
+
+/* Card styles */
+.card {
+    margin-bottom: 20px;
+    min-height: 620px;
+}
+.card-body{
+    min-height:220px;
+}
+.card-text{
+    font-size: .85rem
+}
+.card-title{
+    font-size: 1rem
+}
+
+
+
+
+
+

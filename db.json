@@ -1,0 +1,1922 @@
+[
+    {
+    "id": "0",
+    "image": "http://vignette1.wikia.nocookie.net/gundam/images/f/f7/Mg-rx-78-2original.jpg/revision/latest?cb=20120201113003",
+    "info_text": "The RX-78-2 Gundam (aka the Gundam, White Mobile Suit) is the titular Mobile Suit of Mobile Suit Gundam. Part of the RX-78 Gundam series, it was built in secret on Side 7. The Gundam would turn the tide of war in favor of the Earth Federation during the One Year War against the Principality of Zeon. The unit was primarily piloted by the series' main protagonist Amuro Ray.",
+    "link": "http://gundam.wikia.com/wiki/RX-78-2_Gundam",
+    "price": "¥2,500",
+    "release_date": "1995 July",
+    "series": "Mobile Suit Gundam",
+    "title": "RX-78-2 Gundam"
+    },
+    {
+    "id": "1",
+    "image": "http://vignette4.wikia.nocookie.net/gundam/images/e/e3/Mg-ms06s.jpg/revision/latest?cb=20120201111409",
+    "info_text": "The MS-06S Zaku II Commander Type is a Mobile Suit introduced in the Mobile Suit Gundam television series. This variant looks very similar to the standard MS-06F Zaku II, so much so, that the Earth Federation can generally only tell the difference from color schemes most pilots apply to their units and the increased performance of this version.",
+    "link": "http://gundam.wikia.com/wiki/MS-06S_Zaku_II_Commander_Type",
+    "price": "¥2,500",
+    "release_date": "1995 October",
+    "series": "Mobile Suit Gundam",
+    "title": "MS-06S Zaku II Commander Type (Char Aznable custom)"
+    },
+    {
+    "id": "2",
+    "image": "http://vignette2.wikia.nocookie.net/gundam/images/6/6c/Mg-ms06f.jpg/revision/latest?cb=20120201111651",
+    "info_text": "The MS-06F Zaku II is one of many variants of the MS-06 Zaku II series of Mobile Suits. The MS-06F was the most produced mobile suit during the One Year War, with 3,246 units built during the war. The MS-06F was piloted by top-scoring Zeon MS aces, as well as by the highest-scoring Zeon ace in the war. It first appears in the anime series Mobile Suit Gundam.",
+    "link": "http://gundam.wikia.com/wiki/MS-06F_Zaku_II",
+    "price": "¥2,500",
+    "release_date": "1995 October",
+    "series": "Mobile Suit Gundam",
+    "title": "MS-06F/J Zaku II"
+    },
+    {
+    "id": "3",
+    "image": "http://vignette3.wikia.nocookie.net/gundam/images/c/cd/Mg-rx-78-g3.jpg/revision/latest?cb=20120201112621",
+    "info_text": "The RX-78-3 Gundam \"G-3\" is a variation of the original RX-78-2 Gundam. It first appeared as part of Mobile Suit Variations model kit series, designed by Kunio Okawara and later reappeared in the game Gundam Battle Universe and Gundam the Ride: A Baoa Qu.",
+    "link": "http://gundam.wikia.com/wiki/RX-78-3_Gundam_%22G-3%22",
+    "price": "¥2,500",
+    "release_date": "1996 March",
+    "series": "Mobile Suit Variations",
+    "title": "RX-78-3 Gundam \"G-3\""
+    },
+    {
+    "id": "4",
+    "image": "http://vignette3.wikia.nocookie.net/gundam/images/6/63/MSZ-006.jpeg/revision/latest?cb=20120206082311",
+    "info_text": "The MSZ-006 Zeta Gundam (aka Zeta, Ζ Gundam, ζ Gundam) is the titular mobile suit of Mobile Suit Zeta Gundam. Though the unit itself had many pilots throughout Zeta Gundam and Mobile Suit Gundam ZZ, it was most famously piloted by its designer, Kamille Bidan.",
+    "link": "http://gundam.wikia.com/wiki/MSZ-006_Zeta_Gundam",
+    "price": "¥3,000",
+    "release_date": "1996 April",
+    "series": "Mobile Suit Zeta Gundam",
+    "title": "MSZ-006 Zeta Gundam"
+    },
+    {
+    "id": "5",
+    "image": "http://vignette1.wikia.nocookie.net/gundam/images/c/c2/Mg-ms-06r1-sm.jpg/revision/latest?cb=20120206085224",
+    "info_text": "The MS-06R-1A Zaku II High Mobility Type is a mobile suit first appearing in Mobile Suit Variations. It is a mass-production space combat mobile suit, and one of many variants of the standard MS-06 Zaku II.",
+    "link": "http://gundam.wikia.com/wiki/MS-06R-1A_Zaku_II_High_Mobility_Type",
+    "price": "¥2,800",
+    "release_date": "1996 June",
+    "series": "Mobile Suit Variations",
+    "title": "MS-06R-1 Zaku II (Shin Matsunaga custom)"
+    },
+    {
+    "id": "6",
+    "image": "http://vignette4.wikia.nocookie.net/gundam/images/7/76/Ms-06r-2-mg1.jpg/revision/latest?cb=20120127134730",
+    "info_text": "The MS-06R-2 Zaku II High Mobility Type is a mass-production space combat mobile suit, and is another high mobility version of the MS-06 Zaku II. It was first featured in the original design series Mobile Suit Variations (MSV).",
+    "link": "http://gundam.wikia.com/wiki/MS-06R-2_Zaku_II_High_Mobility_Type",
+    "price": "¥2,800",
+    "release_date": "1996 June",
+    "series": "Mobile Suit Variations",
+    "title": "MS-06R-2 Zaku II (Johnny Ridden custom)"
+    },
+    {
+    "id": "7",
+    "image": "http://vignette1.wikia.nocookie.net/gundam/images/b/bf/Mg-ms14-ca.jpg/revision/latest?cb=20120206085420",
+    "info_text": "The MS-14S (YMS-14) Gelgoog Commander Type is a commander mobile suit that entered production as the MS-14A Gelgoog.",
+    "link": "http://gundam.wikia.com/wiki/MS-14S_Gelgoog_Commander_Type",
+    "price": "¥3,000",
+    "release_date": "1996 December",
+    "series": "Mobile Suit Gundam",
+    "title": "MS-14S Gelgoog Commander Type (Char Aznable Custom)"
+    },
+    {
+    "id": "8",
+    "image": "http://vignette2.wikia.nocookie.net/gundam/images/7/78/Mg-ms-14c-jr.jpg/revision/latest?cb=20120206085515",
+    "info_text": "The MS-14C Gelgoog Cannon (ゲルググキャノン, Gerugugukyanon) is a mass-produced artillery mobile suit, it is a variant of the original MS-14A Gelgoog. It is featured in the original design series Mobile Suit Variations (MSV).",
+    "link": "http://gundam.wikia.com/wiki/MS-14C_Gelgoog_Cannon",
+    "price": "¥3,000",
+    "release_date": "1997 March",
+    "series": "Mobile Suit Variations",
+    "title": "MS-14B/C Gelgoog High Mobility Type/Gelgoog Cannon"
+    },
+    {
+    "id": "9",
+    "image": "http://vignette4.wikia.nocookie.net/gundam/images/1/1d/Mg-rx-78gp01.jpg/revision/latest?cb=20120206085635",
+    "info_text": "The RX-78GP01 Gundam \"Zephyranthes\" (aka Zephyranthes, GP01, Unit 1) is a prototype general-purpose mobile suit from the OVA series Mobile Suit Gundam 0083: Stardust Memory. The unit is piloted by Kou Uraki.",
+    "link": "http://gundam.wikia.com/wiki/RX-78GP01_Gundam_%22Zephyranthes%22",
+    "price": "¥2,500",
+    "release_date": "1997 August",
+    "series": "Mobile Suit Gundam 0083: Stardust Memory",
+    "title": "RX-78GP01 Gundam \"Zephyranthes\""
+    },
+    {
+    "id": "10",
+    "image": "http://vignette2.wikia.nocookie.net/gundam/images/4/49/Mg-ms14-a.jpg/revision/latest?cb=20120206085727",
+    "info_text": "The MS-14A Gelgoog (ゲルググ,Gerugugu) was the last mass production mobile suit produced by the Principality of Zeon during the One Year War.",
+    "link": "http://gundam.wikia.com/wiki/MS-14A_Gelgoog",
+    "price": "¥3,000",
+    "release_date": "1997 September",
+    "series": "Mobile Suit Gundam",
+    "title": "MS-14A Gelgoog"
+    },
+    {
+    "id": "11",
+    "image": "http://vignette4.wikia.nocookie.net/gundam/images/a/a4/Mg-rx-78gp01fb.jpg/revision/latest?cb=20120201113757",
+    "info_text": "The RX-78GP01-Fb Gundam \"Zephyranthes\" Full Burnern (Often translated as Gundam \"Zephyranthes\" Full Vernian) is the upgraded space use version of the RX-78GP01 Gundam \"Zephyranthes\". It is featured in the anime OVA series Mobile Suit Gundam 0083: Stardust Memory. The unit is piloted by Kou Uraki.",
+    "link": "http://gundam.wikia.com/wiki/RX-78GP01-Fb_Gundam_Full_Burnern_%22Zephyranthes%22",
+    "price": "¥3,000",
+    "release_date": "1997 December",
+    "series": "Mobile Suit Gundam 0083: Stardust Memory",
+    "title": "RX-78GP01-Fb Gundam Full Burnern \"Zephyranthes\""
+    },
+    {
+    "id": "12",
+    "image": "http://vignette4.wikia.nocookie.net/gundam/images/d/dc/Mg-rx78-gp02.jpg/revision/latest?cb=20120202040448",
+    "info_text": "The RX-78GP02A Gundam \"Physalis\" (aka \"Physalis\", GP02A) is the second of four mobile suits in the Gundam Development Project and featured in Mobile Suit Gundam 0083: Stardust Memory. It originally belonged to Earth Federation until it was stolen and piloted by Delaz Fleet's ace pilot, Anavel Gato.",
+    "link": "http://gundam.wikia.com/wiki/RX-78GP02A_Gundam_%22Physalis%22",
+    "price": "¥4,000",
+    "release_date": "1998 June",
+    "series": "Mobile Suit Gundam 0083: Stardust Memory",
+    "title": "RX-78GP02A Gundam \"Physalis\""
+    },
+    {
+    "id": "13",
+    "image": "http://vignette1.wikia.nocookie.net/gundam/images/9/93/Mg-rx-178mk-ii.jpg/revision/latest?cb=20151104025643",
+    "info_text": "The RX-178 Gundam Mk-II is a mobile suit that appears in the anime series Mobile Suit Zeta Gundam. It is a successor of the famous RX-78-2 Gundam that served in the One Year War with cheaper armor to reduce costs.",
+    "link": "http://gundam.wikia.com/wiki/RX-178_Gundam_Mk-II",
+    "price": "¥2,800",
+    "release_date": "1998 July",
+    "series": "Mobile Suit Zeta Gundam",
+    "title": "RX-178 Gundam Mk-II (A.E.U.G. colors)"
+    },
+    {
+    "id": "14",
+    "image": "http://vignette2.wikia.nocookie.net/gundam/images/8/85/Mg-rx-178t.jpg/revision/latest?cb=20151104030319",
+    "info_text": "The RX-178 Gundam Mk-II is a mobile suit that appears in the anime series Mobile Suit Zeta Gundam. It is a successor of the famous RX-78-2 Gundam that served in the One Year War with cheaper armor to reduce costs.",
+    "link": "http://gundam.wikia.com/wiki/RX-178_Gundam_Mk-II",
+    "price": "¥2,800",
+    "release_date": "1998 August",
+    "series": "Mobile Suit Zeta Gundam",
+    "title": "RX-178 Gundam Mk-II (Titans colors)"
+    },
+    {
+    "id": "15",
+    "image": "http://vignette3.wikia.nocookie.net/gundam/images/a/ab/Mg-rx-178-fxa-05.jpg/revision/latest?cb=20120201114743",
+    "info_text": "The RX-178+FXA-05D Super Gundam is a mobile suit in the series Mobile Suit Zeta Gundam. It is the combination of the FXA-05D G-Defenser and the RX-178 Gundam Mk-II. It was piloted by Emma Sheen.",
+    "link": "http://gundam.wikia.com/wiki/RX-178%2BFXA-05D_Super_Gundam",
+    "price": "¥4,000",
+    "release_date": "1998 December",
+    "series": "Mobile Suit Zeta Gundam",
+    "title": "RX-178+FXA-05D Super Gundam"
+    },
+    {
+    "id": "16",
+    "image": "http://vignette3.wikia.nocookie.net/gundam/images/7/7b/Mg-rgm-79.jpg/revision/latest?cb=20120201115250",
+    "info_text": "The RGM-79 GM (aka GM, pronounced Jim) was the first mass-produced mobile suit of the Earth Federation. It first appears in Mobile Suit Gundam.",
+    "link": "http://gundam.wikia.com/wiki/RGM-79_GM",
+    "price": "¥2,500",
+    "release_date": "1999 February",
+    "series": "Mobile Suit Gundam",
+    "title": "RGM-79 GM"
+    },
+    {
+    "id": "17",
+    "image": "http://vignette3.wikia.nocookie.net/gundam/images/e/e0/Mg-ms-05b.jpg/revision/latest?cb=20120206090000",
+    "info_text": "The MS-05B Zaku I is a mobile suit line from the Universal Century time-line.",
+    "link": "http://gundam.wikia.com/wiki/MS-05B_Zaku_I",
+    "price": "¥2,500",
+    "release_date": "1999 May",
+    "series": "Mobile Suit Gundam",
+    "title": "MS-05B Zaku I"
+    },
+    {
+    "id": "18",
+    "image": "http://vignette3.wikia.nocookie.net/gundam/images/7/7d/Mg-ms-05bt.jpg/revision/latest?cb=20120206172810",
+    "info_text": "The MS-05B Zaku I is a mobile suit line from the Universal Century time-line.",
+    "link": "http://gundam.wikia.com/wiki/MS-05B_Zaku_I",
+    "price": "¥2,500",
+    "release_date": "1999 May",
+    "series": "Mobile Suit Variations",
+    "title": "MS-05B Zaku I (Black Tri-Stars Version)"
+    },
+    {
+    "id": "19",
+    "image": "http://vignette2.wikia.nocookie.net/gundam/images/2/2f/Ms-06r1a-mg.jpg/revision/latest?cb=20110919190723",
+    "info_text": "The MS-06R-1A Zaku II High Mobility Type is a mobile suit first appearing in Mobile Suit Variations. It is a mass-production space combat mobile suit, and one of many variants of the standard MS-06 Zaku II.",
+    "link": "http://gundam.wikia.com/wiki/MS-06R-1A_Zaku_II_High_Mobility_Type",
+    "price": "¥3,000",
+    "release_date": "1999 June",
+    "series": "Mobile Suit Variations",
+    "title": "MS-06R-1A Zaku II (Black Tri-Stars Version)"
+    },
+    {
+    "id": "20",
+    "image": "http://vignette4.wikia.nocookie.net/gundam/images/2/29/Mg-ms-09.jpg/revision/latest?cb=20120201115938",
+    "info_text": "The MS-09B Dom is a mass-production ground combat mobile suit, the unit makes its first appearance in the anime series Mobile Suit Gundam. It is most well known to be piloted by the Black Tri-Stars, along with the pilots Abraham and Rayburn.",
+    "link": "http://gundam.wikia.com/wiki/MS-09_Dom",
+    "price": "¥4,000",
+    "release_date": "1999 June",
+    "series": "Mobile Suit Gundam",
+    "title": "MS-09 Dom"
+    },
+    {
+    "id": "21",
+    "image": "http://vignette3.wikia.nocookie.net/gundam/images/9/97/Mg-alex.jpg/revision/latest?cb=20100718080818",
+    "info_text": "The RX-78NT-1 Gundam \"Alex\" (RX-78NT-1 ガンダム「アレックス」 RX-78NT-1 Gandamu Arekkusu?, \"Alex\" being an acronym for \"Armored Layers EXperimental\") is the main mobile suit featured in the Mobile Suit Gundam 0080: War in the Pocket OVA series. It is a next generation Gundam built specifically for Newtypes. The unit is piloted by test pilot Christina Mackenzie.",
+    "link": "http://gundam.wikia.com/wiki/RX-78NT-1_Gundam_%22Alex%22",
+    "price": "¥3,000",
+    "release_date": "1999 June",
+    "series": "Mobile Suit Gundam 0080: War in the Pocket",
+    "title": "RX-78NT-1 Gundam \"Alex\""
+    },
+    {
+    "id": "22",
+    "image": "http://vignette1.wikia.nocookie.net/gundam/images/2/26/Mg-ms-09r.jpg/revision/latest?cb=20120201120117",
+    "info_text": "The MS-09R Rick Dom (リック・ドム Rikku Domu?) is a mass production space combat mobile suit, and variant of the MS-09B Dom. It was first featured in the anime series Mobile Suit Gundam.",
+    "link": "http://gundam.wikia.com/wiki/MS-09R_Rick_Dom",
+    "price": "¥4,000",
+    "release_date": "1999 October",
+    "series": "Mobile Suit Gundam",
+    "title": "MS-09R Rick Dom"
+    },
+    {
+    "id": "23",
+    "image": "http://vignette1.wikia.nocookie.net/gundam/images/0/0c/Rgm-79n-mg.jpg/revision/latest?cb=20120127135556",
+    "info_text": "The RGM-79N GM Custom is a limited-production general-purpose mobile suit, that first appeared in Mobile Suit Gundam 0083: Stardust Memory.",
+    "link": "http://gundam.wikia.com/wiki/RGM-79N_GM_Custom",
+    "price": "¥3,000",
+    "release_date": "1999 December",
+    "series": "Mobile Suit Gundam 0083: Stardust Memory",
+    "title": "RGM-79N GM Custom"
+    },
+    {
+    "id": "24",
+    "image": "http://vignette4.wikia.nocookie.net/gundam/images/8/8b/Rgm-79q-mg.jpg/revision/latest?cb=20120127135954",
+    "info_text": "The RGM-79Q GM Quel is a mass-produced general purpose mobile suit used by the Earth Federation's elite Titans special unit. It first appeared in the OVA Mobile Suit Gundam 0083: Stardust Memory and was later featured in Advance of Zeta: The Flag of Titans and Mobile Suit Zeta Gundam: A New Translation.",
+    "link": "http://gundam.wikia.com/wiki/RGM-79Q_GM_Quel",
+    "price": "¥3,000",
+    "release_date": "1999 December",
+    "series": "Mobile Suit Gundam 0083: Stardust Memory",
+    "title": "RGM-79Q GM Quel"
+    },
+    {
+    "id": "25",
+    "image": "http://vignette1.wikia.nocookie.net/gundam/images/1/15/Msz-010-mg.jpg/revision/latest?cb=20120127140317",
+    "info_text": "This article is about the mobile suit. For the anime series this unit is named after, see Mobile Suit Gundam ZZ.",
+    "link": "http://gundam.wikia.com/wiki/MSZ-010_%CE%96%CE%96_Gundam",
+    "price": "¥4,000",
+    "release_date": "1999 December",
+    "series": "Mobile Suit Gundam ZZ",
+    "title": "MSZ-010 ΖΖ Gundam"
+    },
+    {
+    "id": "26",
+    "image": "http://vignette1.wikia.nocookie.net/gundam/images/5/51/Mg-rx-79g.jpg/revision/latest?cb=20120201121137",
+    "info_text": "The RX-79[G] Gundam Ground Type (陸戦型ガンダム) is a limited mass production Gundam-type mobile suit that was the beginning of the ground based RX-79 series of mobile suits. The unit is first featured in Mobile Suit Gundam: The 08th MS Team.",
+    "link": "http://gundam.wikia.com/wiki/RX-79(G)_Gundam_Ground_Type",
+    "price": "¥3,000",
+    "release_date": "2000 May",
+    "series": "Mobile Suit Gundam: The 08th MS Team",
+    "title": "RX-79(G) Gundam Ground Type"
+    },
+    {
+    "id": "27",
+    "image": "http://vignette3.wikia.nocookie.net/gundam/images/7/76/RX_78-2_gundam.jpeg/revision/latest?cb=20120201181112",
+    "info_text": "The RX-78-2 Gundam (aka the Gundam, White Mobile Suit) is the titular Mobile Suit of Mobile Suit Gundam. Part of the RX-78 Gundam series, it was built in secret on Side 7. The Gundam would turn the tide of war in favor of the Earth Federation during the One Year War against the Principality of Zeon. The unit was primarily piloted by the series' main protagonist Amuro Ray.",
+    "link": "http://gundam.wikia.com/wiki/RX-78-2_Gundam",
+    "price": "¥3,000",
+    "release_date": "2000 June",
+    "series": "Mobile Suit Gundam",
+    "title": "RX-78-2 Gundam Ver. 1.5"
+    },
+    {
+    "id": "28",
+    "image": "http://vignette2.wikia.nocookie.net/gundam/images/1/1e/Mg-msn-04.jpg/revision/latest?cb=20120201121543",
+    "info_text": "The MSN-04 Sazabi (aka Sazabi, MSN-04) is a mobile suit that appears in Mobile Suit Gundam: Char's Counterattack. It is piloted by Char Aznable.",
+    "link": "http://gundam.wikia.com/wiki/MSN-04_Sazabi",
+    "price": "¥8,000",
+    "release_date": "2000 July",
+    "series": "Mobile Suit Gundam: Char's Counterattack",
+    "title": "MSN-04 Sazabi"
+    },
+    {
+    "id": "29",
+    "image": "http://vignette1.wikia.nocookie.net/gundam/images/4/48/Fa-010s-mg.jpg/revision/latest?cb=20120127140531",
+    "info_text": "The FA-010S (FA-010B) Full Armor ZZ Gundam is a mobile suit that appears in Mobile Suit Gundam ZZ. It is an upgrade of the MSZ-010S Enhanced ZZ Gundam.",
+    "link": "http://gundam.wikia.com/wiki/FA-010S_Full_Armor_ZZ_Gundam",
+    "price": "¥6,000",
+    "release_date": "2000 August",
+    "series": "Mobile Suit Gundam ZZ",
+    "title": "FA-010S Full Armor ZZ Gundam"
+    },
+    {
+    "id": "30",
+    "image": "http://vignette3.wikia.nocookie.net/gundam/images/6/64/Ms-05b-rb.jpg/revision/latest?cb=20120206090111",
+    "info_text": "The MS-05B Zaku I is a mobile suit line from the Universal Century time-line.",
+    "link": "http://gundam.wikia.com/wiki/MS-05B_Zaku_I",
+    "price": "¥2,500",
+    "release_date": "2000 September",
+    "series": "Mobile Suit Gundam",
+    "title": "MS-05B Zaku I (Ramba Ral Custom)"
+    },
+    {
+    "id": "31",
+    "image": "http://vignette1.wikia.nocookie.net/gundam/images/e/e9/Mg-ms07b.jpg/revision/latest?cb=20120206090251",
+    "info_text": "The MS-07B Gouf is a mass production ground close-quarters combat mobile suit and is the successor to the MS-06F Zaku II for ground combat. It was first featured in the anime series Mobile Suit Gundam.",
+    "link": "http://gundam.wikia.com/wiki/MS-07B_Gouf",
+    "price": "¥2,800",
+    "release_date": "2000 October",
+    "series": "Mobile Suit Gundam",
+    "title": "MS-07B Gouf"
+    },
+    {
+    "id": "32",
+    "image": "http://vignette1.wikia.nocookie.net/gundam/images/2/2d/Mg-rx-79g-ez8.jpg/revision/latest?cb=20120201121959",
+    "info_text": "The RX-79[G]Ez-8 Gundam Ez8 (ガンダムEz8) is a custom variant of the original RX-79［G］ Gundam Ground Type. It was one of the signature mobile suits in the 12-episode anime OVA series Mobile Suit Gundam: The 08th MS Team piloted by the series' main protagonist Shiro Amada.",
+    "link": "http://gundam.wikia.com/wiki/RX-79(G)Ez-8_Gundam_Ez8",
+    "price": "¥3,000",
+    "release_date": "2000 October",
+    "series": "Mobile Suit Gundam: The 08th MS Team",
+    "title": "RX-79[G]Ez8 Gundam Ez8"
+    },
+    {
+    "id": "33",
+    "image": "http://vignette2.wikia.nocookie.net/gundam/images/5/5d/Rx-93-mg.jpg/revision/latest?cb=20120127164809",
+    "info_text": "The RX-93 ν Gundam (aka Nu Gundam, Nu) is a mobile suit that appears in Mobile Suit Gundam: Char's Counterattack. It was designed and piloted by Amuro Ray.",
+    "link": "http://gundam.wikia.com/wiki/RX-93_%CE%BD_Gundam",
+    "price": "¥5,000",
+    "release_date": "2000 December",
+    "series": "Mobile Suit Gundam: Char's Counterattack",
+    "title": "RX-93 ν Gundam"
+    },
+    {
+    "id": "34",
+    "image": "http://vignette1.wikia.nocookie.net/gundam/images/3/3d/Mg-ms-18e.jpg/revision/latest?cb=20120202040807",
+    "info_text": "MS-18 Kämpfer (ケンプファー Kenpufā?) is a prototype mobile suit used by the Principality of Zeon that appears in the Mobile Suit Gundam 0080: War in the Pocket OVA.",
+    "link": "http://gundam.wikia.com/wiki/MS-18E_K%C3%A4mpfer",
+    "price": "¥4,000",
+    "release_date": "2001 January",
+    "series": "Mobile Suit Gundam 0080: War in the Pocket",
+    "title": "MS-18E Kämpfer"
+    },
+    {
+    "id": "35",
+    "image": "http://vignette2.wikia.nocookie.net/gundam/images/b/ba/Mg-ms-07b3.jpg/revision/latest?cb=20120201141912",
+    "info_text": "The MS-07B-3 Gouf Custom is an upgraded variant of the MS-07B Gouf that was introduced shortly after the MS-09B Dom. It first appeared in the anime Mobile Suit Gundam: The 08th MS Team.",
+    "link": "http://gundam.wikia.com/wiki/MS-07B-3_Gouf_Custom",
+    "price": "¥3,000",
+    "release_date": "2001 February",
+    "series": "Mobile Suit Gundam: The 08th MS Team",
+    "title": "MS-07B-3 Gouf Custom"
+    },
+    {
+    "id": "36",
+    "image": "http://vignette2.wikia.nocookie.net/gundam/images/8/84/Mg-msn-001.jpg/revision/latest?cb=20120201151954",
+    "info_text": "The MSN-00100 (MSN-100, MSN-001) Hyaku Shiki is a prototype attack use Mobile Suit from the Universal Century timeline. The unit was featured in Mobile Suit Zeta Gundam and Mobile Suit Gundam ZZ. It was primarily piloted by Quattro Bajeena (Zeta) and Beecha Oleg (ZZ).",
+    "link": "http://gundam.wikia.com/wiki/MSN-00100_Hyaku_Shiki",
+    "price": "¥4,500",
+    "release_date": "2001 March",
+    "series": "Mobile Suit Zeta Gundam",
+    "title": "MSN-00100 Hyaku Shiki"
+    },
+    {
+    "id": "37",
+    "image": "http://vignette3.wikia.nocookie.net/gundam/images/d/d2/Mg-rx-78gp03s.jpg/revision/latest?cb=20120201122309",
+    "info_text": "The RX-78GP03S Gundam \"Dendrobium Stamen\" (aka Stamen, GP03S) is a prototype space attack use mobile suit. It was first seen in Mobile Suit Gundam 0083: Stardust Memory and was piloted by Kou Uraki.",
+    "link": "http://gundam.wikia.com/wiki/RX-78GP03S_Gundam_%22Dendrobium_Stamen%22",
+    "price": "¥3,500",
+    "release_date": "2001 April",
+    "series": "Mobile Suit Gundam 0083: Stardust Memory",
+    "title": "RX-78GP03S Gundam \"Dendrobium Stamen\""
+    },
+    {
+    "id": "38",
+    "image": "http://vignette2.wikia.nocookie.net/gundam/images/8/83/Mg-rgz-91.jpg/revision/latest?cb=20120201135923",
+    "info_text": "The RGZ-91 Re-GZ (Refined Gundam Zeta) (リ·ガズィ Ri Gazi?) is a prototype transformable mobile suit, based on data from the MSZ-006R Zeta Plus R. The unit was featured in the anime movie Mobile Suit Gundam: Char's Counterattack and also featured in the OVA series Mobile Suit Gundam Unicorn.",
+    "link": "http://gundam.wikia.com/wiki/RGZ-91_Re-GZ",
+    "price": "¥4,000",
+    "release_date": "2001 June",
+    "series": "Mobile Suit Gundam: Char's Counterattack",
+    "title": "RGZ-91 Re-GZ"
+    },
+    {
+    "id": "39",
+    "image": "http://vignette2.wikia.nocookie.net/gundam/images/8/87/Mg-rgm-79g.jpg/revision/latest?cb=20120206090524",
+    "info_text": "The RGM-79[G] GM Ground Type (陸戦型ジム) is a ground based predecessor to the RGM-79 GM. It first appeared in Mobile Suit Gundam: The 08th MS Team.",
+    "link": "http://gundam.wikia.com/wiki/RGM-79(G)_GM_Ground_Type",
+    "price": "¥3,000",
+    "release_date": "2001 July",
+    "series": "Mobile Suit Gundam: The 08th MS Team",
+    "title": "RGM-79[G] GM Ground Type"
+    },
+    {
+    "id": "40",
+    "image": "http://vignette4.wikia.nocookie.net/gundam/images/1/1f/Mg-amx-004.jpg/revision/latest?cb=20120202040935",
+    "info_text": "AMX-004 Qubeley (キュベレイ Kyuberei?) is a mobile suit that appears in Mobile Suit Zeta Gundam and Mobile Suit Gundam ZZ. The unit is piloted by Haman Karn.",
+    "link": "http://gundam.wikia.com/wiki/AMX-004_Qubeley",
+    "price": "¥4,000",
+    "release_date": "2001 August",
+    "series": "Mobile Suit Zeta Gundam",
+    "title": "AMX-004 Qubeley"
+    },
+    {
+    "id": "41",
+    "image": "http://vignette3.wikia.nocookie.net/gundam/images/4/4c/Hobby_257_pmaster_grade_mg_1100_scale_fa010a_fazz_sentinel_versionp.jpg/revision/latest?cb=20120206093612",
+    "info_text": "The FA-010A FAZZ (pronounced as \"fahts\") is a variant of the MSZ-010 ΖΖ Gundam. The unit was featured in Gundam Sentinel.",
+    "link": "http://gundam.wikia.com/wiki/FA-010A_FAZZ",
+    "price": "¥6,000",
+    "release_date": "2001 September",
+    "series": "Gundam Sentinel",
+    "title": "FA-010A FAZZ"
+    },
+    {
+    "id": "42",
+    "image": "http://vignette4.wikia.nocookie.net/gundam/images/9/9e/Mg-msz-006a1.jpg/revision/latest?cb=20120206090635",
+    "info_text": "The MSZ-006A1 Ζeta Plus A1 (Z Plus A1) is a part of the MSZ-006+ Zeta Plus line of mass-production mobile suits. The A1 type was the first mass-produced successor to the MSZ-006 Zeta Gundam. It was featured in the photo-novel Gundam Sentinel. The unit is piloted by Amuro Ray.",
+    "link": "http://gundam.wikia.com/wiki/MSZ-006A1_Zeta_Plus_A1",
+    "price": "¥3,000",
+    "release_date": "2001 October",
+    "series": "Gundam Sentinel",
+    "title": "MSZ-006A1 Zeta Plus A1 Test Color"
+    },
+    {
+    "id": "43",
+    "image": "http://vignette4.wikia.nocookie.net/gundam/images/5/5b/Mg-g-gundam.jpg/revision/latest?cb=20150328025321",
+    "info_text": "The GF13-017NJII God Gundam (aka G Gundam, Burning Gundam in the English dub) is the titular Mobile Suit of Mobile Fighter G Gundam. It was the second Mobile Fighter used by Neo Japan in the 13th Gundam Fight, and is piloted by Domon Kasshu.",
+    "link": "http://gundam.wikia.com/wiki/GF13-017NJII_God_Gundam",
+    "price": "¥2,500",
+    "release_date": "2001 November",
+    "series": "Mobile Fighter G Gundam",
+    "title": "GF13-017NJII G Gundam"
+    },
+    {
+    "id": "44",
+    "image": "http://vignette4.wikia.nocookie.net/gundam/images/5/54/Mg-rx77.jpg/revision/latest?cb=20120206091037",
+    "info_text": "The RX-77-2 Guncannon was the second mobile suit design model that stemmed from the Earth Federation's \"Project V\" in the Mobile Suit Gundam anime.",
+    "link": "http://gundam.wikia.com/wiki/RX-77-2_Guncannon",
+    "price": "¥3,000",
+    "release_date": "2001 December",
+    "series": "Mobile Suit Gundam",
+    "title": "RX-77-2 Guncannon"
+    },
+    {
+    "id": "45",
+    "image": "http://vignette3.wikia.nocookie.net/gundam/images/7/70/Mg-msz-006c1.jpg/revision/latest?cb=20120201140143",
+    "info_text": "The MSZ-006C1 Ζ Plus C1 is a variant of the MSZ-006A1 Zeta Plus A1 designed for space combat. The unit is featured in the photo-novel Gundam Sentinel.",
+    "link": "http://gundam.wikia.com/wiki/MSZ-006C1_%CE%96eta_Plus_C1",
+    "price": "¥3,000",
+    "release_date": "2002 February",
+    "series": "Gundam Sentinel",
+    "title": "MSZ-006C1 Ζeta Plus C1"
+    },
+    {
+    "id": "46",
+    "image": "http://vignette1.wikia.nocookie.net/gundam/images/7/77/MG_-_GF13-001NHII_Master_Gundam_-_Boxart.jpg/revision/latest?cb=20101214224343",
+    "info_text": "The GF13-001NHII Master Gundam is a Mobile Fighter piloted by Master Asia. Representing Neo Hong Kong, it appeared in Mobile Fighter G Gundam and is one of the Four Heavenly Kings.",
+    "link": "http://gundam.wikia.com/wiki/GF13-001NHII_Master_Gundam",
+    "price": "¥2,800",
+    "release_date": "2002 March",
+    "series": "Mobile Fighter G Gundam",
+    "title": "GF13-001NHII Master Gundam"
+    },
+    {
+    "id": "47",
+    "image": "http://vignette3.wikia.nocookie.net/gundam/images/d/d1/Mg-ms-06f2.jpg/revision/latest?cb=20120201112155",
+    "info_text": "The MS-06F2 Zaku II F2 Type (aka Zaku II Late production model) is a mass-produced general purpose multi-class mobile suit and a variant of the original MS-06F Zaku II.",
+    "link": "http://gundam.wikia.com/wiki/MS-06F2_Zaku_II_F2_Type",
+    "price": "¥3,000",
+    "release_date": "2002 April",
+    "series": "Mobile Suit Gundam 0083: Stardust Memory",
+    "title": "MS-06F2 Zaku II F2 Type (Zeon Version)"
+    },
+    {
+    "id": "48",
+    "image": "http://vignette1.wikia.nocookie.net/gundam/images/1/14/MG-Gundam-GF13-017NJ-Shining-Gundam-Box-Art.jpg/revision/latest?cb=20120402073526",
+    "info_text": "The GF13-017NJ Shining Gundam is a Mobile Fighter for the nation of Neo Japan built for the 13th Gundam Fight. It was featured in the anime Mobile Fighter G Gundam and is piloted by Domon Kasshu.",
+    "link": "http://gundam.wikia.com/wiki/GF13-017NJ_Shining_Gundam",
+    "price": "¥2,500",
+    "release_date": "2002 May",
+    "series": "Mobile Fighter G Gundam",
+    "title": "GF13-017NJ Shining Gundam"
+    },
+    {
+    "id": "49",
+    "image": "http://vignette2.wikia.nocookie.net/gundam/images/e/e8/Mg-rgm79-c-earth.jpg/revision/latest?cb=20120206092019",
+    "info_text": "The RGM-79C GM Type C (aka GM Kai) is an improved version of one of the Earth Federation Forces' first mass production mobile suit, the RGM-79(E) GM Early Type. It first appeared in Mobile Suit Gundam 0083: Stardust Memory.",
+    "link": "http://gundam.wikia.com/wiki/RGM-79C_GM_Kai",
+    "price": "¥2,500",
+    "release_date": "2002 June",
+    "series": "Mobile Suit Gundam 0083: Stardust Memory",
+    "title": "RGM-79C GM Type C Earth Type"
+    },
+    {
+    "id": "50",
+    "image": "http://vignette1.wikia.nocookie.net/gundam/images/8/84/Mg-msn-02.jpg/revision/latest?cb=20120201140604",
+    "info_text": "The MSN-02 Zeong (ジオング) (also written as \"Jiong\") is a prototype mobile suit developed by the Principality of Zeon at the A Baoa Qu space fortress during the One Year War of the anime Mobile Suit Gundam, the Zeong was built especially for Newtype pilots and was first piloted by the \"Red Comet\" Char Aznable.",
+    "link": "http://gundam.wikia.com/wiki/MSN-02_Zeong",
+    "price": "¥6,000",
+    "release_date": "2002 July",
+    "series": "Mobile Suit Gundam",
+    "title": "MSN-02 Zeong"
+    },
+    {
+    "id": "51",
+    "image": "http://vignette1.wikia.nocookie.net/gundam/images/5/55/Mg-rx-78ca.jpg/revision/latest?cb=20120201144155",
+    "info_text": "The RX-78/C.A. Gundam Char Aznable Custom is a mobile suit from the Universal Century timeline, which first appeared in the game Gihren's Greed.",
+    "link": "http://gundam.wikia.com/wiki/RX-78/C.A._Gundam_Char_Aznable_Custom",
+    "price": "¥3,000",
+    "release_date": "2002 August",
+    "series": "Mobile Suit Gundam Gihren's Greed",
+    "title": "RX-78/C.A. Gundam Char Aznable Custom"
+    },
+    {
+    "id": "52",
+    "image": "http://vignette2.wikia.nocookie.net/gundam/images/5/56/Mg-spiegel.jpg/revision/latest?cb=20120202041352",
+    "info_text": "The GF13-021NG Gundam Spiegel (Shadow Gundam in the English dub) is a Mobile Fighter from Mobile Fighter G Gundam. It is piloted by Schwarz Bruder of Neo Germany.",
+    "link": "http://gundam.wikia.com/wiki/GF13-021NG_Gundam_Spiegel",
+    "price": "¥2,500",
+    "release_date": "2002 August",
+    "series": "Mobile Fighter G Gundam",
+    "title": "GF13-021NG Gundam Spiegel"
+    },
+    {
+    "id": "53",
+    "image": "http://vignette2.wikia.nocookie.net/gundam/images/c/c8/MG_MS-06F2_Zaku_II_F2_Boxart.jpg/revision/latest?cb=20101211124307",
+    "info_text": "The MS-06F2 Zaku II F2 Type (aka Zaku II Late production model) is a mass-produced general purpose multi-class mobile suit and a variant of the original MS-06F Zaku II.",
+    "link": "http://gundam.wikia.com/wiki/MS-06F2_Zaku_II_F2_Type",
+    "price": "¥3,000",
+    "release_date": "2002 September",
+    "series": "Mobile Suit Gundam 0083: Stardust Memory",
+    "title": "MS-06F2 Zaku II F2 (E.F.S.F Version)"
+    },
+    {
+    "id": "54",
+    "image": "http://vignette3.wikia.nocookie.net/gundam/images/f/fe/Mg-msa-011s.jpg/revision/latest?cb=20120201143117",
+    "info_text": "The MSA-0011 (MSZ-011) S Gundam (aka Superior Gundam) was a prototype transformable mobile suit that appeared in the photo-novel Gundam Sentinel. The suit was originally called Supreme Gundam, but was also known under the codename \"Ι Gundam\" (Iota Gundam). The mobile suit is piloted by Ryou Roots.",
+    "link": "http://gundam.wikia.com/wiki/MSA-0011_S_Gundam",
+    "price": "¥6,000",
+    "release_date": "2002 October",
+    "series": "Gundam Sentinel",
+    "title": "MSA-0011 S Gundam"
+    },
+    {
+    "id": "55",
+    "image": "http://vignette3.wikia.nocookie.net/gundam/images/6/68/Mg-rgm79-c-space.jpg/revision/latest?cb=20120206092143",
+    "info_text": "The RGM-79C GM Type C (aka GM Kai) is an improved version of one of the Earth Federation Forces' first mass production mobile suit, the RGM-79(E) GM Early Type. It first appeared in Mobile Suit Gundam 0083: Stardust Memory.",
+    "link": "http://gundam.wikia.com/wiki/RGM-79C_GM_Kai",
+    "price": "¥2,500",
+    "release_date": "2002 November",
+    "series": "Mobile Suit Gundam 0083: Stardust Memory",
+    "title": "RGM-79C GM Type C Space Type"
+    },
+    {
+    "id": "56",
+    "image": "http://vignette1.wikia.nocookie.net/gundam/images/a/af/Mg-rx78-ka.jpg/revision/latest?cb=20120206092248",
+    "info_text": "The RX-78-2 Gundam (aka the Gundam, White Mobile Suit) is the titular Mobile Suit of Mobile Suit Gundam. Part of the RX-78 Gundam series, it was built in secret on Side 7. The Gundam would turn the tide of war in favor of the Earth Federation during the One Year War against the Principality of Zeon. The unit was primarily piloted by the series' main protagonist Amuro Ray.",
+    "link": "http://gundam.wikia.com/wiki/RX-78-2_Gundam",
+    "price": "¥3,200",
+    "release_date": "2002 December",
+    "series": "Mobile Suit Gundam",
+    "title": "RX-78-2 Gundam \"Ver. Ka\""
+    },
+    {
+    "id": "57",
+    "image": "http://vignette3.wikia.nocookie.net/gundam/images/8/8b/MG_Rick_Dom_C.A._Custom.jpg/revision/latest?cb=20120201143326",
+    "info_text": "The Rick Dom Char Aznable Custom (often known by fans as simply Char's Rick Dom) is a variant of the MS-09R Rick Dom, specially modified to Char Aznable specifications. The unit is piloted by Char in the novelization of Mobile Suit Gundam, replacing the MSN-02 Zeong as Char's final mobile suit during the One Year War.",
+    "link": "http://gundam.wikia.com/wiki/MS-09RS_Rick_Dom_C.A._Custom",
+    "price": "¥4,500",
+    "release_date": "2003 January",
+    "series": "Mobile Suit Gundam (Novel)",
+    "title": "MS-09RS Rick Dom C.A. Custom"
+    },
+    {
+    "id": "58",
+    "image": "http://vignette3.wikia.nocookie.net/gundam/images/f/ff/Mg-ms14-ag.jpg/revision/latest?cb=20120206172943",
+    "info_text": "The MS-14A Gelgoog (ゲルググ,Gerugugu) was the last mass production mobile suit produced by the Principality of Zeon during the One Year War.",
+    "link": "http://gundam.wikia.com/wiki/MS-14A_Gelgoog",
+    "price": "¥3,500",
+    "release_date": "2003 February",
+    "series": "Mobile Suit Gundam 0083: Stardust Memory",
+    "title": "MS-14A Gelgoog (Anavel Gato Custom)"
+    },
+    {
+    "id": "59",
+    "image": "http://vignette1.wikia.nocookie.net/gundam/images/1/1f/Mg-ext-s.jpg/revision/latest?cb=20120202041647",
+    "info_text": "The MSA-0011[Ext] Ex-S Gundam (aka Extraordinary-Superior Gundam) is an upgraded version of the MSA-0011 S Gundam that appears in Gundam Sentinel. The mobile suit is piloted by Ryou Roots.",
+    "link": "http://gundam.wikia.com/wiki/MSA-0011(Ext)_Ex-S_Gundam",
+    "price": "¥8,000",
+    "release_date": "2003 March",
+    "series": "Gundam Sentinel",
+    "title": "MSA-0011[Ext] Ex-S Gundam"
+    },
+    {
+    "id": "60",
+    "image": "http://vignette3.wikia.nocookie.net/gundam/images/5/55/Mg-zgok.jpg/revision/latest?cb=20120201143541",
+    "info_text": "The MSM-07 Z'Gok (ズゴック Zugokku?) is a mass production amphibious mobile suit. It was first featured in the anime series Mobile Suit Gundam, and later appeared in the OVA series Mobile Suit Gundam Unicorn.",
+    "link": "http://gundam.wikia.com/wiki/MSM-07_Z%27Gok",
+    "price": "¥3,000",
+    "release_date": "2003 May",
+    "series": "Mobile Suit Gundam",
+    "title": "MSM-07 Z'Gok"
+    },
+    {
+    "id": "61",
+    "image": "http://vignette2.wikia.nocookie.net/gundam/images/2/2e/Mg-gogg.jpg/revision/latest?cb=20120201143737",
+    "info_text": "The MSM-03 Gogg is a mass-produced amphibious mobile suit first featured in Mobile Suit Gundam.",
+    "link": "http://gundam.wikia.com/wiki/MSM-03_Gogg",
+    "price": "¥3,500",
+    "release_date": "2003 June",
+    "series": "Mobile Suit Gundam",
+    "title": "MSM-03 Gogg"
+    },
+    {
+    "id": "62",
+    "image": "http://vignette3.wikia.nocookie.net/gundam/images/4/4b/Mg-rx-78-4.jpg/revision/latest?cb=20120201145318",
+    "info_text": "The RX-78-4 Gundam Unit 4 (aka \"G04\") is a Gundam from Kunio Okawara's MS Collection (M-MSV) original design series, designed by Kunio Okawara as the 4th Gundam. The design was updated to be used in the video game Mobile Suit Gundam: Encounters In Space as well as the manga Mobile Suit Gundam Side Story: Space, To the End of a Flash.",
+    "link": "http://gundam.wikia.com/wiki/RX-78-4_Gundam_Unit_4_%22G04%22",
+    "price": "¥2,800",
+    "release_date": "2003 July",
+    "series": "Mobile Suit Gundam Side Story: Space, To the End of a Flash",
+    "title": "RX-78-4 Gundam Unit 4 \"G04\""
+    },
+    {
+    "id": "63",
+    "image": "http://vignette1.wikia.nocookie.net/gundam/images/8/86/Mg-rx78g05.jpg/revision/latest?cb=20120206092401",
+    "info_text": "The RX-78-5 Gundam Unit 5 (aka \"G05\") is a Gundam type mobile suit from Kunio Okawara's MS Collection (M-MSV) original design series, designed by Kunio Okawara as the 5th Gundam. The design was updated to be used in the video game Mobile Suit Gundam: Encounters In Space as well as the manga Mobile Suit Gundam Side Story: Space, To the End of a Flash.",
+    "link": "http://gundam.wikia.com/wiki/RX-78-5_Gundam_Unit_5_%22G05%22",
+    "price": "¥2,800",
+    "release_date": "2003 August",
+    "series": "Mobile Suit Gundam Side Story: Space, To the End of a Flash",
+    "title": "RX-78-5 Gundam Unit 5 \"G05\""
+    },
+    {
+    "id": "64",
+    "image": "http://vignette2.wikia.nocookie.net/gundam/images/a/a8/Mg-aile-strike.jpg/revision/latest?cb=20120202041749",
+    "info_text": "The GAT-X105+AQM/E-X01 Aile Strike is a prototype high mobility mobile suit, and is featured in Mobile Suit Gundam SEED. Its primary pilot was Kira Yamato before it was passed down to ace pilot Mu La Flaga.",
+    "link": "http://gundam.wikia.com/wiki/GAT-X105%2BAQM/E-X01_Aile_Strike_Gundam",
+    "price": "¥3,800",
+    "release_date": "2003 October",
+    "series": "Mobile Suit Gundam SEED",
+    "title": "GAT-X105+AQM/E-X01 Aile Strike Gundam"
+    },
+    {
+    "id": "65",
+    "image": "http://vignette4.wikia.nocookie.net/gundam/images/2/2a/Mg-msm-07s-ca.jpg/revision/latest?cb=20120206173042",
+    "info_text": "The MSM-07S Z'Gok Commander Type is a variant of the MSM-07 Z'Gok created by the Principality of Zeon during the One Year War.",
+    "link": "http://gundam.wikia.com/wiki/MSM-07S_Z%27Gok_Commander_Type",
+    "price": "¥3,000",
+    "release_date": "2003 November",
+    "series": "Mobile Suit Gundam",
+    "title": "MSM-07S Z'Gok Commander Type (Char Aznable custom)"
+    },
+    {
+    "id": "66",
+    "image": "http://vignette2.wikia.nocookie.net/gundam/images/8/85/MG_Perfect_Gundam.jpeg/revision/latest?cb=20100728152952",
+    "info_text": "The PF-78-1 Perfect Gundam is the variation of the titular mobile suit of Mobile Suit Gundam, the RX-78-2 Gundam and the first non-UC Gundam. Designed by Kunio Okawara and later by Hajime Katoki for the Gundam Fix Figuration version, it played a prominent part in the manga Plamo-Kyoshiro, and later became part of the original design series Mobile Suit Variations (MSV). Its built and piloted by Shiro Kyoda.",
+    "link": "http://gundam.wikia.com/wiki/PF-78-1_Perfect_Gundam",
+    "price": "¥4,000",
+    "release_date": "2003 December",
+    "series": "Plamo-Kyoshiro",
+    "title": "PF-78-1 Perfect Gundam"
+    },
+    {
+    "id": "67",
+    "image": "http://vignette3.wikia.nocookie.net/gundam/images/7/7f/Mg-amx-004mkii.jpg/revision/latest?cb=20151203030612",
+    "info_text": "The AMX-004 (AMX-005) Qubeley Mk-II (キュベレイMk-Ⅱ, Kyuberei Mk - Ⅱ) is the successor to the AMX-004 Qubeley featured in Mobile Suit Gundam ZZ. At least two units were built, piloted by Elpeo Ple and Ple Two respectively.",
+    "link": "http://gundam.wikia.com/wiki/AMX-004_Qubeley_Mk-II",
+    "price": "¥4,000",
+    "release_date": "2004 February",
+    "series": "Mobile Suit Gundam ZZ",
+    "title": "AMX-004-3 Qubeley Mk-II"
+    },
+    {
+    "id": "68",
+    "image": "http://vignette1.wikia.nocookie.net/gundam/images/b/b6/Mg-wing-verka.jpg/revision/latest?cb=20120201142557",
+    "info_text": "XXXG-01W Wing Gundam (aka Wing Gundam or Gundam Zero-One) is the titular mobile suit of Gundam Wing. It was developed in the L1 Colony Cluster by the engineer Doctor J as a tool to take revenge on the OZ organization for the assassination of the pacifist leader of the colonies, Heero Yuy. Wing Gundam was used mainly in missions against OZ and the Romefeller Foundation. The unit was primarily piloted by the series' main protagonist Heero Yuy (a teenage boy who was code-named after the martryed pacifist).",
+    "link": "http://gundam.wikia.com/wiki/XXXG-01W_Wing_Gundam",
+    "price": "¥3,500",
+    "release_date": "2004 March",
+    "series": "Mobile Suit Gundam Wing",
+    "title": "XXXG-01W Wing Gundam \"Ver. Ka\""
+    },
+    {
+    "id": "69",
+    "image": "http://vignette3.wikia.nocookie.net/gundam/images/1/1d/Mg-rms-099.jpg/revision/latest?cb=20120201153005",
+    "info_text": "The RMS-099 Rick Dias (RMS-099 リック・ディアス Āru Emu Esu Zero Kyū Kyū Rikku Diasu?) is a second-generation mass production attack-use mobile suit featured in the Mobile Suit Zeta Gundam television series.",
+    "link": "http://gundam.wikia.com/wiki/RMS-099_Rick_Dias",
+    "price": "¥3,500",
+    "release_date": "2004 May",
+    "series": "Mobile Suit Zeta Gundam",
+    "title": "RMS-099 Rick Dias"
+    },
+    {
+    "id": "70",
+    "image": "http://vignette1.wikia.nocookie.net/gundam/images/1/16/Mg-msn-02-perfect.jpg/revision/latest?cb=20120201140851",
+    "info_text": "The MSN-02 Perfect Zeong is a prototype newtype-use mobile suit, it is the completed version of the MSN-02 Zeong. The unit is featured in Plamo-Kyoshiro and later in the original design series Mobile Suit Variations (MSV). It received a semi-official appearance in Mobile Suit Gundam: Char's Deleted Affair: Portrait Of Young Comet.",
+    "link": "http://gundam.wikia.com/wiki/MSN-02_Perfect_Zeong",
+    "price": "¥10,000",
+    "release_date": "2004 June",
+    "series": "Plamo-Kyoshiro",
+    "title": "MSN-02 Perfect Zeong"
+    },
+    {
+    "id": "71",
+    "image": "http://vignette4.wikia.nocookie.net/gundam/images/7/7f/Gundam_Freedom.jpeg/revision/latest?cb=20120201144713",
+    "info_text": "The ZGMF-X10A Freedom Gundam (aka Freedom, X10A) is a mobile suit that appears in Mobile Suit Gundam SEED and Mobile Suit Gundam SEED Destiny. The unit is piloted by Kira Yamato.",
+    "link": "http://gundam.wikia.com/wiki/ZGMF-X10A_Freedom_Gundam",
+    "price": "¥3,800",
+    "release_date": "2004 July",
+    "series": "Mobile Suit Gundam SEED",
+    "title": "ZGMF-X10A Freedom Gundam"
+    },
+    {
+    "id": "72",
+    "image": "http://vignette3.wikia.nocookie.net/gundam/images/2/26/Mg-rms-106.jpg/revision/latest?cb=20120206092831",
+    "info_text": "The RMS-106 Hizack (aka Hi-Zack) is a mass-production general-purpose mobile suit. Based on the mobile suit line of the MS-06 Zaku II, the Hizack was a mass production suit used by the Titans and EFSF in Mobile Suit Zeta Gundam.",
+    "link": "http://gundam.wikia.com/wiki/RMS-106_Hizack",
+    "price": "¥3,000",
+    "release_date": "2004 August",
+    "series": "Mobile Suit Zeta Gundam",
+    "title": "RMS-106 Hi-Zack"
+    },
+    {
+    "id": "73",
+    "image": "http://vignette3.wikia.nocookie.net/gundam/images/0/0b/Mg-strike-rouge.jpg/revision/latest?cb=20120202042204",
+    "info_text": "The MBF-02 Strike Rouge is a mobile suit appearing in Mobile Suit Gundam SEED and its sequel Mobile Suit Gundam SEED Destiny. Its primary pilot is the Princess of Orb Cagalli Yula Athha. The word Rouge is the French word for the color red.",
+    "link": "http://gundam.wikia.com/wiki/MBF-02_Strike_Rouge",
+    "price": "¥4,000",
+    "release_date": "2004 September",
+    "series": "Mobile Suit Gundam SEED",
+    "title": "MBF-02 Strike Rouge"
+    },
+    {
+    "id": "74",
+    "image": "http://vignette2.wikia.nocookie.net/gundam/images/b/b3/Mg-zero-w-2.jpg/revision/latest?cb=20120202042058",
+    "info_text": "The XXXG-00W0 Wing Gundam Zero (aka Wing Zero) is a mobile suit that appears in Mobile Suit Gundam Wing and its sequel OVA/movie Endless Waltz. Though having many pilots during its lifetime, the unit was most famously piloted by the series' main protagonist Heero Yuy.",
+    "link": "http://gundam.wikia.com/wiki/XXXG-00W0_Wing_Gundam_Zero",
+    "price": "¥3,800",
+    "release_date": "2004 October",
+    "series": "Mobile Suit Gundam Wing: Endless Waltz",
+    "title": "XXXG-00W0 Wing Gundam Zero EW"
+    },
+    {
+    "id": "75",
+    "image": "http://vignette3.wikia.nocookie.net/gundam/images/f/f0/Mg-rb79-ka.jpg/revision/latest?cb=20120206092926",
+    "info_text": "The RB-79 Ball is a fictional weapon from the anime series Mobile Suit Gundam.",
+    "link": "http://gundam.wikia.com/wiki/RB-79_Ball",
+    "price": "¥2,000",
+    "release_date": "2004 December",
+    "series": "Mobile Suit Gundam",
+    "title": "RB-79 Ball \"Ver. Ka\""
+    },
+    {
+    "id": "76",
+    "image": "http://vignette1.wikia.nocookie.net/gundam/images/3/38/Mg-rms-099-qb.jpg/revision/latest?cb=20120206173138",
+    "info_text": "The RMS-099 Rick Dias (RMS-099 リック・ディアス Āru Emu Esu Zero Kyū Kyū Rikku Diasu?) is a second-generation mass production attack-use mobile suit featured in the Mobile Suit Zeta Gundam television series.",
+    "link": "http://gundam.wikia.com/wiki/RMS-099_Rick_Dias",
+    "price": "¥3,600",
+    "release_date": "2004 December",
+    "series": "Mobile Suit Zeta Gundam",
+    "title": "RMS-099 Rick Dias (Quattro Bajeena Custom)"
+    },
+    {
+    "id": "77",
+    "image": "http://vignette1.wikia.nocookie.net/gundam/images/a/af/Mg-rx-78-0079.jpg/revision/latest?cb=20120206173230",
+    "info_text": "The RX-78-2 Gundam (aka the Gundam, White Mobile Suit) is the titular Mobile Suit of Mobile Suit Gundam. Part of the RX-78 Gundam series, it was built in secret on Side 7. The Gundam would turn the tide of war in favor of the Earth Federation during the One Year War against the Principality of Zeon. The unit was primarily piloted by the series' main protagonist Amuro Ray.",
+    "link": "http://gundam.wikia.com/wiki/RX-78-2_Gundam",
+    "price": "¥3,200",
+    "release_date": "2005 March",
+    "series": "Mobile Suit Gundam: The One Year War",
+    "title": "RX-78-2 Gundam Ver. One Year War 0079"
+    },
+    {
+    "id": "78",
+    "image": "http://vignette4.wikia.nocookie.net/gundam/images/8/83/Mg-rb79k.jpg/revision/latest?cb=20120201150653",
+    "info_text": "The RB-79K Ball Type K is a mobile pod featured in the OVA series Mobile Suit Gundam: The 08th MS Team. It is piloted by Shiro Amada.",
+    "link": "http://gundam.wikia.com/wiki/RB-79K_Ball_Type_K",
+    "price": "¥2,400",
+    "release_date": "2005 May",
+    "series": "Mobile Suit Gundam: The 08th MS Team",
+    "title": "RB-79K Ball Type K"
+    },
+    {
+    "id": "79",
+    "image": "http://vignette3.wikia.nocookie.net/gundam/images/b/bb/MG_-_MSM-04_-_Acguy_-_Boxart.jpg/revision/latest?cb=20110223193649",
+    "info_text": "The MSM-04 Acguy (アッガイ Aggai) is a mass-produced amphibious mobile suit, it was featured in the anime series Mobile Suit Gundam.",
+    "link": "http://gundam.wikia.com/wiki/MSM-04_Acguy",
+    "price": "¥4,000",
+    "release_date": "2005 July",
+    "series": "Mobile Suit Gundam",
+    "title": "MSM-04 Acguy"
+    },
+    {
+    "id": "80",
+    "image": "http://vignette3.wikia.nocookie.net/gundam/images/9/9e/Mg-msn-001-ballute.jpg/revision/latest?cb=20120201152052",
+    "info_text": "The MSN-00100 (MSN-100, MSN-001) Hyaku Shiki is a prototype attack use Mobile Suit from the Universal Century timeline. The unit was featured in Mobile Suit Zeta Gundam and Mobile Suit Gundam ZZ. It was primarily piloted by Quattro Bajeena (Zeta) and Beecha Oleg (ZZ).",
+    "link": "http://gundam.wikia.com/wiki/MSN-00100_Hyaku_Shiki",
+    "price": "¥4,000",
+    "release_date": "2005 September",
+    "series": "Mobile Suit Zeta Gundam",
+    "title": "MSN-00100 Hyaku-Shiki + Ballute System"
+    },
+    {
+    "id": "81",
+    "image": "http://vignette3.wikia.nocookie.net/gundam/images/1/15/Mg-rx-178.jpg/revision/latest?cb=20151104025820",
+    "info_text": "The RX-178 Gundam Mk-II is a mobile suit that appears in the anime series Mobile Suit Zeta Gundam. It is a successor of the famous RX-78-2 Gundam that served in the One Year War with cheaper armor to reduce costs.",
+    "link": "http://gundam.wikia.com/wiki/RX-178_Gundam_Mk-II",
+    "price": "¥4,000",
+    "release_date": "2005 October",
+    "series": "Mobile Suit Zeta Gundam",
+    "title": "RX-178 Gundam Mk-II Ver. 2.0"
+    },
+    {
+    "id": "82",
+    "image": "http://vignette2.wikia.nocookie.net/gundam/images/8/8f/MG_-_MSZ-006_-_Zeta_Gundam_-_Boxart.jpg/revision/latest?cb=20110223163849",
+    "info_text": "The MSZ-006 Zeta Gundam (aka Zeta, Ζ Gundam, ζ Gundam) is the titular mobile suit of Mobile Suit Zeta Gundam. Though the unit itself had many pilots throughout Zeta Gundam and Mobile Suit Gundam ZZ, it was most famously piloted by its designer, Kamille Bidan.",
+    "link": "http://gundam.wikia.com/wiki/MSZ-006_Zeta_Gundam",
+    "price": "¥5,000",
+    "release_date": "2005 December",
+    "series": "Mobile Suit Zeta Gundam",
+    "title": "MSZ-006 Zeta Gundam Ver. 2.0"
+    },
+    {
+    "id": "83",
+    "image": "http://vignette4.wikia.nocookie.net/gundam/images/8/88/MG_-_MSA-003_-_Nemo_-_Boxart.jpg/revision/latest?cb=20110223194100",
+    "info_text": "The MSA-003 Nemo is a mass-production attack-use mobile suit first featured in the anime series Mobile Suit Zeta Gundam. The design was later updated and featured in the light novel/OVA series Mobile Suit Gundam Unicorn.",
+    "link": "http://gundam.wikia.com/wiki/MSA-003_Nemo",
+    "price": "¥2,800",
+    "release_date": "2006 February",
+    "series": "Mobile Suit Zeta Gundam",
+    "title": "MSA-003 Nemo"
+    },
+    {
+    "id": "84",
+    "image": "http://vignette2.wikia.nocookie.net/gundam/images/a/a2/Mg-rx-178t-ver2.jpg/revision/latest?cb=20151104030456",
+    "info_text": "The RX-178 Gundam Mk-II is a mobile suit that appears in the anime series Mobile Suit Zeta Gundam. It is a successor of the famous RX-78-2 Gundam that served in the One Year War with cheaper armor to reduce costs.",
+    "link": "http://gundam.wikia.com/wiki/RX-178_Gundam_Mk-II",
+    "price": "¥3,500",
+    "release_date": "2006 March",
+    "series": "Mobile Suit Zeta Gundam",
+    "title": "RX-178 Gundam Mk-II Ver. 2.0 (Titans)"
+    },
+    {
+    "id": "85",
+    "image": "http://vignette1.wikia.nocookie.net/gundam/images/a/ae/YMS-15_Gyan_MG_boxart.jpg/revision/latest?cb=20101114194702",
+    "info_text": "The YMS-15 Gyan is a mobile suit from the anime series Mobile Suit Gundam.",
+    "link": "http://gundam.wikia.com/wiki/YMS-15_Gyan",
+    "price": "¥3,600",
+    "release_date": "2006 May",
+    "series": "Mobile Suit Gundam",
+    "title": "YMS-15 Gyan"
+    },
+    {
+    "id": "86",
+    "image": "http://vignette3.wikia.nocookie.net/gundam/images/d/da/MG_-_F91_Gundam_F91_-_Boxart.jpg/revision/latest?cb=20110223164226",
+    "info_text": "The F91 Gundam F91 (\"F91\" standing for \"Formula 91\") is the titular mobile suit of Mobile Suit Gundam F91. The unit is piloted by Seabook Arno. Another F91, colored dark blue and yellow, is piloted by Harrison Martin.",
+    "link": "http://gundam.wikia.com/wiki/F91_Gundam_F91",
+    "price": "¥3,200",
+    "release_date": "2006 July",
+    "series": "Mobile Suit Gundam F91",
+    "title": "F91 Gundam F91"
+    },
+    {
+    "id": "87",
+    "image": "http://vignette4.wikia.nocookie.net/gundam/images/4/4b/Mg-rb-79sm.jpg/revision/latest?cb=20120202042506",
+    "info_text": "The RB-79 Ball is a fictional weapon from the anime series Mobile Suit Gundam.",
+    "link": "http://gundam.wikia.com/wiki/RB-79_Ball",
+    "price": "¥2,200",
+    "release_date": "2006 August",
+    "series": "Mobile Suit Gundam MS IGLOO",
+    "title": "RB-79 Ball (Shark Mouth)"
+    },
+    {
+    "id": "88",
+    "image": "http://vignette4.wikia.nocookie.net/gundam/images/f/fa/Mg-xm-x1.jpg/revision/latest?cb=20120202041950",
+    "info_text": "XM-X1 Crossbone Gundam X-1 is a testbed mobile suit in the Universal Century developed by the Earth Federation's Strategic Naval Research Institute (SNRI). It was featured in the manga series Mobile Suit Crossbone Gundam.",
+    "link": "http://gundam.wikia.com/wiki/XM-X1_Crossbone_Gundam_X-1",
+    "price": "¥3,500",
+    "release_date": "2006 September",
+    "series": "Mobile Suit Crossbone Gundam",
+    "title": "XM-X1 Crossbone Gundam X-1 \"Ver. Ka\""
+    },
+    {
+    "id": "89",
+    "image": "http://vignette3.wikia.nocookie.net/gundam/images/a/ad/Strike-iwsp-mg.jpg/revision/latest?cb=20120201145638",
+    "info_text": "The GAT-X105+P202QX Strike IWSP is a prototype mobile suit, it was featured in Mobile Suit Gundam SEED: Mobile Suit Variations.",
+    "link": "http://gundam.wikia.com/wiki/GAT-X105%2BP202QX_Strike_Gundam_IWSP",
+    "price": "¥4,200",
+    "release_date": "2006 October",
+    "series": "Mobile Suit Gundam SEED Frame Astrays",
+    "title": "GAT-X105 Strike Gundam + I.W.S.P."
+    },
+    {
+    "id": "90",
+    "image": "http://vignette2.wikia.nocookie.net/gundam/images/e/ec/Mg-f91-hm.jpg/revision/latest?cb=20120206093209",
+    "info_text": "The F91 Gundam F91 (\"F91\" standing for \"Formula 91\") is the titular mobile suit of Mobile Suit Gundam F91. The unit is piloted by Seabook Arno. Another F91, colored dark blue and yellow, is piloted by Harrison Martin.",
+    "link": "http://gundam.wikia.com/wiki/F91_Gundam_F91",
+    "price": "¥3,000",
+    "release_date": "2006 November",
+    "series": "Mobile Suit Crossbone Gundam: Steel 7",
+    "title": "F91 Gundam F91 (Harrison Martin Custom)"
+    },
+    {
+    "id": "91",
+    "image": "http://vignette4.wikia.nocookie.net/gundam/images/2/2f/Mg-rgm79-g-sniper.jpg/revision/latest?cb=20120201150012",
+    "info_text": "The RGM-79[G] GM Sniper is a mass-produced ground long-range mobile suit, and is a variant to the RGM-79［G］ GM Ground Type. The unit is featured in the anime series Mobile Suit Gundam: The 08th MS Team.",
+    "link": "http://gundam.wikia.com/wiki/RGM-79(G)_GM_Sniper",
+    "price": "¥3,500",
+    "release_date": "2006 November",
+    "series": "Mobile Suit Gundam: The 08th MS Team",
+    "title": "RGM-79[G] GM Sniper"
+    },
+    {
+    "id": "92",
+    "image": "http://vignette3.wikia.nocookie.net/gundam/images/e/e3/Mg-sf.jpg/revision/latest?cb=20120201151511",
+    "info_text": "The ZGMF-X20A Strike Freedom Gundam (aka Strike Freedom, Freedom) is the successor mobile suit of the ZGMF-X10A Freedom. Appearing in Mobile Suit Gundam SEED Destiny, it is piloted by Kira Yamato.",
+    "link": "http://gundam.wikia.com/wiki/ZGMF-X20A_Strike_Freedom_Gundam",
+    "price": "¥4,800",
+    "release_date": "2006 December",
+    "series": "Mobile Suit Gundam SEED Destiny",
+    "title": "ZGMF-X20A Strike Freedom Gundam"
+    },
+    {
+    "id": "93",
+    "image": "http://vignette2.wikia.nocookie.net/gundam/images/3/3a/Skullheart-fc-mg.jpg/revision/latest?cb=20120127165051",
+    "info_text": "The XM-X1 Crossbone Gundam X-1 Kai Kai \"Skull Heart\" is a mobile suit which appears in the manga Mobile Suit Crossbone Gundam: Skull Heart and Mobile Suit Crossbone Gundam: Steel 7.",
+    "link": "http://gundam.wikia.com/wiki/XM-X1_Crossbone_Gundam_X-1_Kai_Kai_%22Skull_Heart%22",
+    "price": "¥4,500",
+    "release_date": "2007 January",
+    "series": "Mobile Suit Crossbone Gundam: Steel 7",
+    "title": "XM-X1 Crossbone Gundam X-1 Full Cloth"
+    },
+    {
+    "id": "94",
+    "image": "http://vignette2.wikia.nocookie.net/gundam/images/5/5d/Hi-nu_gundam_Boxart.jpg/revision/latest?cb=20120206174719",
+    "info_text": "The RX-93-ν2 Hi-ν Gundam (pronounced \"High-New\") is an alternate interpretation of the RX-93 ν Gundam which appears in Mobile Suit Gundam: Beltorchika's Children. It is piloted by Amuro Ray.",
+    "link": "http://gundam.wikia.com/wiki/RX-93-%CE%BD2_Hi-%CE%BD_Gundam",
+    "price": "¥7,000",
+    "release_date": "2007 February",
+    "series": "Mobile Suit Gundam: Char's Counterattack - Beltorchika's Children",
+    "title": "RX-93-ν2 Hi-ν Gundam"
+    },
+    {
+    "id": "95",
+    "image": "http://vignette4.wikia.nocookie.net/gundam/images/c/c8/Mg-strike-noir.jpg/revision/latest?cb=20120201152649",
+    "info_text": "The GAT-X105E+AQME-X09S Strike Noir Gundam is a Mobile Suit in the OVA Mobile Suit Gundam SEED C.E. 73: STARGAZER and the manga Mobile Suit Gundam SEED C.E. 73 Δ Astray. It is piloted by Sven Cal Bayang.",
+    "link": "http://gundam.wikia.com/wiki/GAT-X105E%2BAQM/E-X09S_Strike_Noir_Gundam",
+    "price": "¥4,500",
+    "release_date": "2007 March",
+    "series": "Mobile Suit Gundam SEED C.E. 73: STARGAZER",
+    "title": "GAT-X105E+AQM/E-X09S Strike Noir Gundam"
+    },
+    {
+    "id": "96",
+    "image": "http://vignette1.wikia.nocookie.net/gundam/images/3/38/Mg-ms-06j-ver2.jpg/revision/latest?cb=20120206173421",
+    "info_text": "The MS-06J Zaku II Ground Type is one of several variants of the MS-06 Zaku II line of Mobile Suits.",
+    "link": "http://gundam.wikia.com/wiki/MS-06J_Zaku_II_Ground_Type",
+    "price": "¥3,500",
+    "release_date": "2007 April",
+    "series": "Mobile Suit Gundam",
+    "title": "MS-06J Zaku II Ver. 2.0"
+    },
+    {
+    "id": "97",
+    "image": "http://vignette2.wikia.nocookie.net/gundam/images/7/79/Mg-ms-06s-ver2.jpg/revision/latest?cb=20120206173508",
+    "info_text": "The MS-06S Zaku II Commander Type is a Mobile Suit introduced in the Mobile Suit Gundam television series. This variant looks very similar to the standard MS-06F Zaku II, so much so, that the Earth Federation can generally only tell the difference from color schemes most pilots apply to their units and the increased performance of this version.",
+    "link": "http://gundam.wikia.com/wiki/MS-06S_Zaku_II_Commander_Type",
+    "price": "¥3,500",
+    "release_date": "2007 May",
+    "series": "Mobile Suit Gundam",
+    "title": "MS-06S Zaku II Commander Type (Char Aznable Custom) Ver. 2.0"
+    },
+    {
+    "id": "98",
+    "image": "http://vignette4.wikia.nocookie.net/gundam/images/7/76/Mg-ms14s-ver2.jpg/revision/latest?cb=20120201153454",
+    "info_text": "The MS-14S (YMS-14) Gelgoog Commander Type is a commander mobile suit that entered production as the MS-14A Gelgoog.",
+    "link": "http://gundam.wikia.com/wiki/MS-14S_Gelgoog_Commander_Type",
+    "price": "¥4,500",
+    "release_date": "2007 July",
+    "series": "Mobile Suit Gundam",
+    "title": "MS-14S Gelgoog Commander Type (Char Aznable Custom) Ver. 2.0"
+    },
+    {
+    "id": "99",
+    "image": "http://vignette2.wikia.nocookie.net/gundam/images/f/f4/MG_-_SYSTEM_%E2%88%80-99_%28WD-M01%29_-_%E2%88%80_Gundam_-_Boxart.jpg/revision/latest?cb=20110223192304",
+    "info_text": "The SYSTEM ∀-99 ∀ Gundam (pronounced \"Turn A Gundam\", aka \"∀\", \"White Doll\", \"White Devil\", \"Mustache\") is the titular mobile suit of Turn A Gundam. It is piloted primarily by Loran Cehack.",
+    "link": "http://gundam.wikia.com/wiki/SYSTEM_%E2%88%80-99_(WD-M01)_%E2%88%80_Gundam",
+    "price": "¥3,800",
+    "release_date": "2007 August",
+    "series": "∀ Gundam",
+    "title": "WD-M01 ∀ Gundam"
+    },
+    {
+    "id": "100",
+    "image": "http://vignette4.wikia.nocookie.net/gundam/images/1/11/MG_Destiny_SP_01.jpg/revision/latest?cb=20120201180519",
+    "info_text": "The ZGMF-X42S Destiny Gundam is the titular mobile suit of Mobile Suit Gundam SEED Destiny. This unit is piloted by Shinn Asuka.",
+    "link": "http://gundam.wikia.com/wiki/ZGMF-X42S_Destiny_Gundam",
+    "price": "¥4,800",
+    "release_date": "2007 October",
+    "series": "Mobile Suit Gundam SEED Destiny",
+    "title": "ZGMF-X42S Destiny Gundam"
+    },
+    {
+    "id": "101",
+    "image": "http://vignette2.wikia.nocookie.net/gundam/images/e/e9/Mg-rx-0-ka.jpg/revision/latest?cb=20120206102017",
+    "info_text": "The RX-0 Unicorn Gundam (ユニコーン ガンダム Yunikōn Gandamu?, or Unicorn Gundam, Unicorn, RX-0) is the titular mobile suit of Mobile Suit Gundam Unicorn, piloted by Banagher Links. When used for noble reasons by a pilot possessing the proper character, the RX-0 is the \"key\" to opening a mysterious object known only as \"Laplace's Box\".",
+    "link": "http://gundam.wikia.com/wiki/RX-0_Unicorn_Gundam",
+    "price": "¥5,000",
+    "release_date": "2007 December",
+    "series": "Mobile Suit Gundam Unicorn",
+    "title": "RX-0 Unicorn Gundam Ver. Ka"
+    },
+    {
+    "id": "102",
+    "image": "http://vignette3.wikia.nocookie.net/gundam/images/2/26/MG_-_MS-06R-1A_-_Zaku_II_-_Boxart.jpg/revision/latest?cb=20110303080906",
+    "info_text": "The MS-06R-1A Zaku II High Mobility Type is a mobile suit first appearing in Mobile Suit Variations. It is a mass-production space combat mobile suit, and one of many variants of the standard MS-06 Zaku II.",
+    "link": "http://gundam.wikia.com/wiki/MS-06R-1A_Zaku_II_High_Mobility_Type",
+    "price": "¥4,500",
+    "release_date": "2008 January",
+    "series": "Mobile Suit Variations",
+    "title": "MS-06R-1A Zaku II Ver.2.0 (Black Tri-Stars Version)"
+    },
+    {
+    "id": "103",
+    "image": "http://vignette1.wikia.nocookie.net/gundam/images/d/db/Mg-strike-iswp-lk.jpg/revision/latest?cb=20120206102559",
+    "info_text": "The GAT-X105E Strike Gundam E (aka Strike Enhanced, Strike, Strike E) is a Mobile Suit in the Cosmic Era timeline.",
+    "link": "http://gundam.wikia.com/wiki/GAT-X105E_Strike_Gundam_E",
+    "price": "¥4,500",
+    "release_date": "2008 February",
+    "series": "Mobile Suit Gundam SEED Frame Astrays",
+    "title": "GAT-X105E Lukas's Strike E + I.W.S.P."
+    },
+    {
+    "id": "104",
+    "image": "http://vignette3.wikia.nocookie.net/gundam/images/d/d0/MG_Zaku_Minelayer.jpg/revision/latest?cb=20120211091756",
+    "info_text": "The MS-06F Zaku Minelayer is a mine layer mobile suit and is a variant of the original MS-06F Zaku II. It was first featured in the original design series Mobile Suit Variations (MSV).",
+    "link": "http://gundam.wikia.com/wiki/MS-06F_Zaku_Minelayer",
+    "price": "¥4,500",
+    "release_date": "2008 March",
+    "series": "Mobile Suit Variations",
+    "title": "MS-06F Zaku Minelayer"
+    },
+    {
+    "id": "105",
+    "image": "http://vignette2.wikia.nocookie.net/gundam/images/1/17/Mg-ms06-f.jpg/revision/latest?cb=20120206102836",
+    "info_text": "The MS-06F Zaku II is one of many variants of the MS-06 Zaku II series of Mobile Suits. The MS-06F was the most produced mobile suit during the One Year War, with 3,246 units built during the war. The MS-06F was piloted by top-scoring Zeon MS aces, as well as by the highest-scoring Zeon ace in the war. It first appears in the anime series Mobile Suit Gundam.",
+    "link": "http://gundam.wikia.com/wiki/MS-06F_Zaku_II",
+    "price": "¥3,500",
+    "release_date": "2008 March",
+    "series": "Mobile Suit Gundam",
+    "title": "MS-06F Zaku II Ver. 2.0"
+    },
+    {
+    "id": "106",
+    "image": "http://vignette2.wikia.nocookie.net/gundam/images/5/52/MG_-_MS-14A_-_Gelgoog_-_Boxart.jpg/revision/latest?cb=20110223193333",
+    "info_text": "The MS-14A Gelgoog (ゲルググ,Gerugugu) was the last mass production mobile suit produced by the Principality of Zeon during the One Year War.",
+    "link": "http://gundam.wikia.com/wiki/MS-14A_Gelgoog",
+    "price": "¥4,500",
+    "release_date": "2008 April",
+    "series": "Mobile Suit Gundam",
+    "title": "MS-14A Gelgoog Ver. 2.0"
+    },
+    {
+    "id": "107",
+    "image": "http://vignette2.wikia.nocookie.net/gundam/images/a/ae/Mg-launcher-strike.jpg/revision/latest?cb=20120206103101",
+    "info_text": "The GAT-X105+AQM/E-X03 Launcher Strike is a prototype heavy assault mobile suit, it is featured in the anime Mobile Suit Gundam SEED. Its primary pilot was Kira Yamato before it was passed down to ace pilot Mu La Flaga.",
+    "link": "http://gundam.wikia.com/wiki/GAT-X105%2BAQM/E-X03_Launcher_Strike_Gundam",
+    "price": "¥5,000",
+    "release_date": "2008 April",
+    "series": "Mobile Suit Gundam SEED",
+    "title": "GAT-X105+AQM/E-X03 Launcher Strike Gundam/GAT-X105+AQM/E-X02 Sword Strike Gundam"
+    },
+    {
+    "id": "108",
+    "image": "http://vignette2.wikia.nocookie.net/gundam/images/5/55/Mg-force-impulse.jpg/revision/latest?cb=20120206103307",
+    "info_text": "The ZGMF-X56S/α Force Impulse Gundam is a Mobile Suit in the series Mobile Suit Gundam SEED Destiny. It is analogous to the Earth Alliance's old GAT-X105+AQM/E-X01 Aile Strike Gundam. It is piloted by Shinn Asuka and later by Lunamaria Hawke",
+    "link": "http://gundam.wikia.com/wiki/ZGMF-X56S/%CE%B1_Force_Impulse_Gundam",
+    "price": "¥4,500",
+    "release_date": "2008 May",
+    "series": "Mobile Suit Gundam SEED Destiny",
+    "title": "ZGMF-X56S/α Force Impulse Gundam"
+    },
+    {
+    "id": "109",
+    "image": "http://vignette1.wikia.nocookie.net/gundam/images/c/c9/Shin_Musha_GundamX.jpg/revision/latest?cb=20120206112622",
+    "info_text": "Musha Gundam (武者 頑駄無 Musha Gandamu) is one of the titular Mobile Suit from the series Plamo-Kyoshiro, which then got a separate franchise starting with SD Sengokuden Musha Shichinin Shuu Hen. The SD version is designed by Koichi Yamato and Craft dan representative, Yasui Hisashi while the Dynasty Warriors Gundam version is designed by Hajime Katoki. Although the concept began with more typical Gundam proportions, the idea is most famous for inspiring the long running SD Gundam franchise.",
+    "link": "http://gundam.wikia.com/wiki/Musha_Gundam",
+    "price": "¥5,000",
+    "release_date": "2008 June",
+    "series": "Plamo-Kyoshiro",
+    "title": "Shin Musha Gundam"
+    },
+    {
+    "id": "110",
+    "image": "http://vignette3.wikia.nocookie.net/gundam/images/b/b6/Mg-rx-78-2-ver2.jpg/revision/latest?cb=20120206173558",
+    "info_text": "The RX-78-2 Gundam (aka the Gundam, White Mobile Suit) is the titular Mobile Suit of Mobile Suit Gundam. Part of the RX-78 Gundam series, it was built in secret on Side 7. The Gundam would turn the tide of war in favor of the Earth Federation during the One Year War against the Principality of Zeon. The unit was primarily piloted by the series' main protagonist Amuro Ray.",
+    "link": "http://gundam.wikia.com/wiki/RX-78-2_Gundam",
+    "price": "¥4,200",
+    "release_date": "2008 July",
+    "series": "Mobile Suit Gundam",
+    "title": "RX-78-2 Gundam Ver. 2.0"
+    },
+    {
+    "id": "111",
+    "image": "http://vignette1.wikia.nocookie.net/gundam/images/b/bf/Mg-ms-06k.jpg/revision/latest?cb=20120206103411",
+    "info_text": "The MS-06K Zaku Cannon is a mass-produced artillery test type mobile suit. It was one of many variants of the standard MS-06 Zaku II produced by the Principality of Zeon during the One Year War. The unit is featured in the original design series Mobile Suit Variations and Mobile Suit Gundam Unicorn novel/OVA.",
+    "link": "http://gundam.wikia.com/wiki/MS-06K_Zaku_Cannon",
+    "price": "¥4,500",
+    "release_date": "2008 August",
+    "series": "Mobile Suit Variations",
+    "title": "MS-06K Zaku Cannon"
+    },
+    {
+    "id": "112",
+    "image": "http://vignette2.wikia.nocookie.net/gundam/images/c/c5/Ms-06r2-mg.jpg/revision/latest?cb=20120127134415",
+    "info_text": "The MS-06R-2 Zaku II High Mobility Type is a mass-production space combat mobile suit, and is another high mobility version of the MS-06 Zaku II. It was first featured in the original design series Mobile Suit Variations (MSV).",
+    "link": "http://gundam.wikia.com/wiki/MS-06R-2_Zaku_II_High_Mobility_Type",
+    "price": "¥4,500",
+    "release_date": "2008 September",
+    "series": "Mobile Suit Variations",
+    "title": "MS-06R-2 Zaku II Ver. 2.0 (Johnny Ridden Custom)"
+    },
+    {
+    "id": "113",
+    "image": "http://vignette4.wikia.nocookie.net/gundam/images/8/84/Infinite-justice-mg-art.jpg/revision/latest?cb=20120211091917",
+    "info_text": "The ZGMF-X19A ∞ Justice Gundam (aka Infinite Justice, ∞ Justice) is a mobile suit as well as the successor to ZGMF-X09A Justice Gundam and appears in Mobile Suit Gundam SEED Destiny. The unit is mainly piloted by Athrun Zala.",
+    "link": "http://gundam.wikia.com/wiki/ZGMF-X19A_%E2%88%9E_Justice_Gundam",
+    "price": "¥5,000",
+    "release_date": "2008 October",
+    "series": "Mobile Suit Gundam SEED Destiny",
+    "title": "ZGMF-X19A ∞ Justice Gundam"
+    },
+    {
+    "id": "114",
+    "image": "http://vignette2.wikia.nocookie.net/gundam/images/4/47/Ms-06r1a-mg-shin.jpg/revision/latest?cb=20110919190811",
+    "info_text": "The MS-06R-1A Zaku II High Mobility Type is a mobile suit first appearing in Mobile Suit Variations. It is a mass-production space combat mobile suit, and one of many variants of the standard MS-06 Zaku II.",
+    "link": "http://gundam.wikia.com/wiki/MS-06R-1A_Zaku_II_High_Mobility_Type",
+    "price": "¥4,500",
+    "release_date": "2008 November",
+    "series": "Mobile Suit Variations",
+    "title": "MS-06R-1A Zaku II Ver. 2.0 (Shin Matsunaga Custom)"
+    },
+    {
+    "id": "115",
+    "image": "http://vignette2.wikia.nocookie.net/gundam/images/3/35/Mg-msn-06-ka.jpg/revision/latest?cb=20151113020907",
+    "info_text": "The MSN-06S Sinanju (aka Sinanju, MSN-06S) is a mobile suit featured in Mobile Suit Gundam Unicorn. It is the modified version of Anaheim Electronics's MSN-06S Sinanju Stein. It is piloted by Full Frontal.",
+    "link": "http://gundam.wikia.com/wiki/MSN-06S_Sinanju",
+    "price": "¥7,000",
+    "release_date": "2008 December",
+    "series": "Mobile Suit Gundam Unicorn",
+    "title": "MSN-06S Sinanju \"Ver. Ka\""
+    },
+    {
+    "id": "116",
+    "image": "http://vignette3.wikia.nocookie.net/gundam/images/e/ec/MG_G-Fighter_Boxart.jpg/revision/latest?cb=20101208064851",
+    "info_text": "The G-Fighter is a space and atmospheric fighter. It is the support unit to the RX-78-2 Gundam. It was featured in the original Mobile Suit Gundam TV series.",
+    "link": "http://gundam.wikia.com/wiki/G-Fighter",
+    "price": "¥5,600",
+    "release_date": "2009 January",
+    "series": "Mobile Suit Gundam",
+    "title": "G-Fighter"
+    },
+    {
+    "id": "117",
+    "image": "http://vignette3.wikia.nocookie.net/gundam/images/9/96/Mg-rgm-79-ver2.jpg/revision/latest?cb=20120206104025",
+    "info_text": "The RGM-79 GM (aka GM, pronounced Jim) was the first mass-produced mobile suit of the Earth Federation. It first appears in Mobile Suit Gundam.",
+    "link": "http://gundam.wikia.com/wiki/RGM-79_GM",
+    "price": "¥3,500",
+    "release_date": "2009 February",
+    "series": "Mobile Suit Gundam",
+    "title": "RGM-79 GM Ver. 2.0"
+    },
+    {
+    "id": "118",
+    "image": "http://vignette1.wikia.nocookie.net/gundam/images/f/f8/Sword-impulse-morishita.jpg/revision/latest?cb=20120201180613",
+    "info_text": "The ZGMF-X56S/β Sword Impulse Gundam is a Mobile Suit in the series Gundam SEED Destiny, and is analogous to the Earth Alliance's old GAT-X105+AQM/E-X02 Sword Strike. It is piloted by Shinn Asuka and later by Lunamaria Hawke.",
+    "link": "http://gundam.wikia.com/wiki/ZGMF-X56S/%CE%B2_Sword_Impulse_Gundam",
+    "price": "¥4,500",
+    "release_date": "2009 April",
+    "series": "Mobile Suit Gundam SEED Destiny",
+    "title": "ZGMF-X56S/β Sword Impulse Gundam"
+    },
+    {
+    "id": "119",
+    "image": "http://vignette2.wikia.nocookie.net/gundam/images/f/ff/Mg-ms-07-ver2.jpg/revision/latest?cb=20120206104243",
+    "info_text": "The MS-07B Gouf is a mass production ground close-quarters combat mobile suit and is the successor to the MS-06F Zaku II for ground combat. It was first featured in the anime series Mobile Suit Gundam.",
+    "link": "http://gundam.wikia.com/wiki/MS-07B_Gouf",
+    "price": "¥3,800",
+    "release_date": "2009 May",
+    "series": "Mobile Suit Gundam",
+    "title": "MS-07B Gouf Ver. 2.0"
+    },
+    {
+    "id": "120",
+    "image": "http://vignette2.wikia.nocookie.net/gundam/images/1/1c/Mg-g-armor-rt.jpg/revision/latest?cb=20120206110316",
+    "info_text": "The G-Armor is one of the combined forms of the RX-78-2 Gundam and its support unit, the G-Fighter. This configuration uses a standard RX-78-2 (sans weapons) equipped with two shields, with the top section covered by G Part A and the bottom section covered by G-Part B. This is the mainstay form of the Gundam and G-Fighter due to the quick docking/undocking sequence.",
+    "link": "http://gundam.wikia.com/wiki/G-Armor",
+    "price": "¥9,800",
+    "release_date": "2009 June",
+    "series": "Mobile Suit Variations",
+    "title": "\"G-Armor\" Realtype Color"
+    },
+    {
+    "id": "121",
+    "image": "http://vignette2.wikia.nocookie.net/gundam/images/7/73/Mg-ms-06j-white-ogre.jpg/revision/latest?cb=20120216071217",
+    "info_text": "The MS-06J Zaku II Ground Type is one of several variants of the MS-06 Zaku II line of Mobile Suits.",
+    "link": "http://gundam.wikia.com/wiki/MS-06J_Zaku_II_Ground_Type",
+    "price": "¥3,500",
+    "release_date": "2009 June",
+    "series": "Mobile Suit Gundam MS IGLOO 2: The Gravity Front",
+    "title": "MS-06J Zaku Ver. 2.0 \"White Ogre\""
+    },
+    {
+    "id": "122",
+    "image": "http://vignette1.wikia.nocookie.net/gundam/images/c/c6/MG_-_GN-001_-_Gundam_Exia_-_Boxart.jpg/revision/latest?cb=20110223164735",
+    "info_text": "The GN-001 Gundam Exia (aka Exia, Gundam Seven Swords), is the close combat Gundam-type mobile suit featured in both seasons of Mobile Suit Gundam 00. The unit is piloted by Setsuna F. Seiei.",
+    "link": "http://gundam.wikia.com/wiki/GN-001_Gundam_Exia",
+    "price": "¥3,800",
+    "release_date": "2009 July",
+    "series": "Mobile Suit Gundam 00",
+    "title": "GN-001 Gundam Exia"
+    },
+    {
+    "id": "123",
+    "image": "http://vignette4.wikia.nocookie.net/gundam/images/a/a5/Mg-rx-75.jpg/revision/latest?cb=20120206110703",
+    "info_text": "The RX-75-4 Guntank is a mobile suit in the series Mobile Suit Gundam.",
+    "link": "http://gundam.wikia.com/wiki/RX-75-4_Guntank",
+    "price": "¥4,800",
+    "release_date": "2009 September",
+    "series": "Mobile Suit Gundam",
+    "title": "RX-75-4 Guntank"
+    },
+    {
+    "id": "124",
+    "image": "http://vignette3.wikia.nocookie.net/gundam/images/4/44/Mg-blue-frame.jpg/revision/latest?cb=20120206110947",
+    "info_text": "The MBF-P03R Gundam Astray Blue Frame 2nd Revise is the improved form of the MBF-P03 Gundam Astray Blue Frame Second L developed by the Serpent Tail with help from Lowe Guele. It first appeared in photo series Mobile Suit Gundam SEED VS Astray. The unit is piloted by Gai Murakumo.",
+    "link": "http://gundam.wikia.com/wiki/MBF-P03R_Gundam_Astray_Blue_Frame_2nd_Revise",
+    "price": "¥4,800",
+    "release_date": "2009 October",
+    "series": "Mobile Suit Gundam SEED VS Astray",
+    "title": "MBF-P03R Gundam Astray Blue Frame 2nd Revise"
+    },
+    {
+    "id": "125",
+    "image": "http://vignette1.wikia.nocookie.net/gundam/images/b/b9/Mg-amx-004mkii-ple.jpg/revision/latest?cb=20151203030502",
+    "info_text": "The AMX-004 (AMX-005) Qubeley Mk-II (キュベレイMk-Ⅱ, Kyuberei Mk - Ⅱ) is the successor to the AMX-004 Qubeley featured in Mobile Suit Gundam ZZ. At least two units were built, piloted by Elpeo Ple and Ple Two respectively.",
+    "link": "http://gundam.wikia.com/wiki/AMX-004_Qubeley_Mk-II",
+    "price": "¥4,000",
+    "release_date": "2009 November",
+    "series": "Mobile Suit Gundam ZZ",
+    "title": "AMX-004-2 Qubeley Mk-II"
+    },
+    {
+    "id": "126",
+    "image": "http://vignette3.wikia.nocookie.net/gundam/images/8/87/Mg-vgundam-ka.jpg/revision/latest?cb=20120206111810",
+    "info_text": "This article is about the mobile suit. For the anime series this unit is named after, see Mobile Suit Victory Gundam.",
+    "link": "http://gundam.wikia.com/wiki/LM312V04_Victory_Gundam",
+    "price": "¥3,800",
+    "release_date": "2009 December",
+    "series": "Mobile Suit Victory Gundam",
+    "title": "LM312V04/06 Victory Gundam \"Ver. Ka\""
+    },
+    {
+    "id": "127",
+    "image": "http://vignette3.wikia.nocookie.net/gundam/images/a/a1/0161537.jpg/revision/latest?cb=20130414065332",
+    "info_text": "The RX-78-3 Gundam \"G-3\" is a variation of the original RX-78-2 Gundam. It first appeared as part of Mobile Suit Variations model kit series, designed by Kunio Okawara and later reappeared in the game Gundam Battle Universe and Gundam the Ride: A Baoa Qu.",
+    "link": "http://gundam.wikia.com/wiki/RX-78-3_Gundam_%22G-3%22",
+    "price": "¥4,200",
+    "release_date": "2009 December",
+    "series": "Mobile Suit Variations",
+    "title": "RX-78-3 Gundam \"G-3\" Ver. 2.0"
+    },
+    {
+    "id": "128",
+    "image": "http://vignette2.wikia.nocookie.net/gundam/images/4/43/MG_GN-X.jpg/revision/latest?cb=20110116232324",
+    "info_text": "The GNX-603T GN-X (aka GN-X, pronounced \"Jinx\") is a series of mass production mobile suits used by the United Nations Forces in season 1 of Mobile Suit Gundam 00.",
+    "link": "http://gundam.wikia.com/wiki/GNX-603T_GN-X",
+    "price": "¥3,600",
+    "release_date": "2010 January",
+    "series": "Mobile Suit Gundam 00",
+    "title": "GNX-603T GN-X"
+    },
+    {
+    "id": "129",
+    "image": "http://vignette1.wikia.nocookie.net/gundam/images/8/80/Red-framekai-mg.jpg/revision/latest?cb=20120206095039",
+    "info_text": "The Astray Red Frame Kai is the upgraded version of the MBF-P02 Gundam Astray Red Frame developed and piloted by Lowe Guele. It first appeared in the photo series Mobile Suit Gundam SEED VS Astray.",
+    "link": "http://gundam.wikia.com/wiki/MBF-P02Kai_Gundam_Astray_Red_Frame_Kai",
+    "price": "¥5,000",
+    "release_date": "2010 February",
+    "series": "Mobile Suit Gundam SEED VS Astray",
+    "title": "MBF-P02Kai Gundam Astray Red Frame Kai"
+    },
+    {
+    "id": "130",
+    "image": "http://vignette2.wikia.nocookie.net/gundam/images/0/06/Rx-0-mgboxart.jpg/revision/latest?cb=20151201113512",
+    "info_text": "The RX-0 Unicorn Gundam (ユニコーン ガンダム Yunikōn Gandamu?, or Unicorn Gundam, Unicorn, RX-0) is the titular mobile suit of Mobile Suit Gundam Unicorn, piloted by Banagher Links. When used for noble reasons by a pilot possessing the proper character, the RX-0 is the \"key\" to opening a mysterious object known only as \"Laplace's Box\".",
+    "link": "http://gundam.wikia.com/wiki/RX-0_Unicorn_Gundam",
+    "price": "¥5,000",
+    "release_date": "2010 March",
+    "series": "Mobile Suit Gundam Unicorn",
+    "title": "RX-0 Unicorn Gundam OVA Ver."
+    },
+    {
+    "id": "131",
+    "image": "http://vignette2.wikia.nocookie.net/gundam/images/4/47/Mg_wing_tv.jpg/revision/latest?cb=20120210162135",
+    "info_text": "XXXG-01W Wing Gundam (aka Wing Gundam or Gundam Zero-One) is the titular mobile suit of Gundam Wing. It was developed in the L1 Colony Cluster by the engineer Doctor J as a tool to take revenge on the OZ organization for the assassination of the pacifist leader of the colonies, Heero Yuy. Wing Gundam was used mainly in missions against OZ and the Romefeller Foundation. The unit was primarily piloted by the series' main protagonist Heero Yuy (a teenage boy who was code-named after the martryed pacifist).",
+    "link": "http://gundam.wikia.com/wiki/XXXG-01W_Wing_Gundam",
+    "price": "¥4,000",
+    "release_date": "2010 April",
+    "series": "Mobile Suit Gundam Wing",
+    "title": "XXXG-01W Wing Gundam"
+    },
+    {
+    "id": "132",
+    "image": "http://vignette3.wikia.nocookie.net/gundam/images/e/ea/Mush_Gundam_Mk._II_Boxart.jpg/revision/latest?cb=20101109040231",
+    "info_text": "Musha Gundam Mk-II is the variant of the Musha Gundam from SD Sengokuden Musha Shichinin Shuu Hen and Dynasty Warriors Gundam. The SD version is designed by Koichi Yamato and Craft dan representative, Yasui Hisashi while the Dynasty Warriors Gundam version is designed by Hajime Katoki.",
+    "link": "http://gundam.wikia.com/wiki/Musha_Gundam_Mk._II",
+    "price": "¥6,000",
+    "release_date": "2010 May",
+    "series": "Dynasty Warriors Gundam 2",
+    "title": "Musha Gundam Mk. II"
+    },
+    {
+    "id": "133",
+    "image": "http://vignette3.wikia.nocookie.net/gundam/images/e/e6/MG_FA_78-1_Gundam.jpg/revision/latest?cb=20101112083302",
+    "info_text": "The FA-78-1 Gundam Full Armor Type (aka Full Armor Gundam) is a Mobile Suit and variant of the RX-78-2 Gundam equipped with external armor. It is featured in the original design series Mobile Suit Variation.",
+    "link": "http://gundam.wikia.com/wiki/FA-78-1_Gundam_Full_Armor_Type",
+    "price": "¥5,000",
+    "release_date": "2010 June",
+    "series": "Mobile Suit Variations",
+    "title": "FA-78-1 Full Armor Gundam"
+    },
+    {
+    "id": "134",
+    "image": "http://vignette2.wikia.nocookie.net/gundam/images/3/3c/LM312V04SD-VB03A-corebooster-verka-mg.jpg/revision/latest?cb=20120113121844",
+    "info_text": "The LM312V04+SD-VB03A V-Dash Gundam is a variant of the LM312V04 Victory Gundam featured in Mobile Suit Victory Gundam. It is piloted by Uso Ewin.",
+    "link": "http://gundam.wikia.com/wiki/LM312V04%2BSD-VB03A_V-Dash_Gundam",
+    "price": "¥2,200",
+    "release_date": "2010 July",
+    "series": "Mobile Suit Victory Gundam",
+    "title": "LM312V04(B-part)+SD-VB03A Core Booster \"Ver. Ka\""
+    },
+    {
+    "id": "135",
+    "image": "http://vignette3.wikia.nocookie.net/gundam/images/2/26/LM312V04SD-VB03A-verka-mg.jpg/revision/latest?cb=20120113121811",
+    "info_text": "The LM312V04+SD-VB03A V-Dash Gundam is a variant of the LM312V04 Victory Gundam featured in Mobile Suit Victory Gundam. It is piloted by Uso Ewin.",
+    "link": "http://gundam.wikia.com/wiki/LM312V04%2BSD-VB03A_V-Dash_Gundam",
+    "price": "¥5,800",
+    "release_date": "2010 July",
+    "series": "Mobile Suit Victory Gundam",
+    "title": "LM312V04+SD-VB03A V-Dash Gundam \"Ver. Ka\""
+    },
+    {
+    "id": "136",
+    "image": "http://vignette2.wikia.nocookie.net/gundam/images/7/74/MG_The_O_Boxart.jpg/revision/latest?cb=20101111090743",
+    "info_text": "The PMX-003 The O is a mobile suit from the series Mobile Suit Zeta Gundam. The unit is piloted by Paptimus Scirocco.",
+    "link": "http://gundam.wikia.com/wiki/PMX-003_The_O",
+    "price": "¥12,000",
+    "release_date": "2010 August",
+    "series": "Mobile Suit Zeta Gundam",
+    "title": "PMX-003 The O"
+    },
+    {
+    "id": "137",
+    "image": "http://vignette2.wikia.nocookie.net/gundam/images/4/42/Mg-deathscythe-ew.jpg/revision/latest?cb=20120113115132",
+    "info_text": "The XXXG-01D Gundam Deathscythe (aka Deathscythe or Gundam Zero-Two), is the second of five Gundams sent down to Earth from the Space Colonies in New Mobile Report Gundam Wing. It was piloted by Duo Maxwell.",
+    "link": "http://gundam.wikia.com/wiki/XXXG-01D_Gundam_Deathscythe",
+    "price": "¥3,800",
+    "release_date": "2010 September",
+    "series": "Mobile Suit Gundam Wing: Endless Waltz",
+    "title": "XXXG-01D Gundam Deathscythe EW"
+    },
+    {
+    "id": "138",
+    "image": "http://vignette2.wikia.nocookie.net/gundam/images/4/4c/Rezel-mg.jpg/revision/latest?cb=20100926103741",
+    "info_text": "The RGZ-95 ReZEL (aka Rezel) is a mass-production transformable assault mobile weapon. It is featured in the photo-novel/OVA Mobile Suit Gundam Unicorn. One of these units is piloted by Riddhe Marcenas.",
+    "link": "http://gundam.wikia.com/wiki/RGZ-95_ReZEL",
+    "price": "¥4,800",
+    "release_date": "2010 October",
+    "series": "Mobile Suit Gundam Unicorn",
+    "title": "RGZ-95 ReZEL"
+    },
+    {
+    "id": "139",
+    "image": "http://vignette1.wikia.nocookie.net/gundam/images/d/d4/MG_QanT.jpg/revision/latest?cb=20101101215543",
+    "info_text": "The GNT-0000 00 Qan[T] (aka 00Q, 00 Qan[T], pronounced \"Double-Oh Quanta\"), is the successor unit to the GN-0000+GNR-010 00 Raiser in Mobile Suit Gundam 00 The Movie -A wakening of the Trailblazer-. The unit is piloted by Setsuna F. Seiei. In the Gundam Breaker 2 video games, this unit has been piloted by Lea Heisenberg.",
+    "link": "http://gundam.wikia.com/wiki/GNT-0000_00_Qan(T)",
+    "price": "¥4,500",
+    "release_date": "2010 November",
+    "series": "Mobile Suit Gundam 00 The Movie -A wakening of the Trailblazer-",
+    "title": "GNT-0000 00 Qan[T]"
+    },
+    {
+    "id": "140",
+    "image": "http://vignette4.wikia.nocookie.net/gundam/images/c/c0/Rgz-95c-mg.jpg/revision/latest?cb=20111226132403",
+    "info_text": "The RGZ-95C ReZEL Commander Type (aka Rezel) is a mass-produced commander's variant of the transformable RGZ-95 ReZEL mobile suit. It is featured in the light-novel/OVA Mobile Suit Gundam Unicorn. One of these units is piloted by Norm Basilicock.",
+    "link": "http://gundam.wikia.com/wiki/RGZ-95C_ReZEL_Commander_Type",
+    "price": "¥5,000",
+    "release_date": "2011 January",
+    "series": "Mobile Suit Gundam Unicorn",
+    "title": "RGZ-95C ReZEL Commander Type"
+    },
+    {
+    "id": "141",
+    "image": "http://vignette1.wikia.nocookie.net/gundam/images/4/4a/Deathscythe_h_boxart.jpg/revision/latest?cb=20110131151710",
+    "info_text": "The XXXG-01D2 Gundam Deathscythe Hell (aka Deathscythe Hell, or Gundam Zero-Two), is the upgraded version of XXXG-01D Gundam Deathscythe in Mobile Suit Gundam Wing. The suit was redesigned by Hajime Katoki for the movie sequel Mobile Suit Gundam Wing: Endless Waltz. The unit is piloted by Duo Maxwell.",
+    "link": "http://gundam.wikia.com/wiki/XXXG-01D2_Gundam_Deathscythe_Hell",
+    "price": "¥4,500",
+    "release_date": "2011 February",
+    "series": "Mobile Suit Gundam Wing: Endless Waltz",
+    "title": "XXXG-01D2 Gundam Deathscythe Hell EW"
+    },
+    {
+    "id": "142",
+    "image": "http://vignette2.wikia.nocookie.net/gundam/images/9/91/1-100_MG_Shenlong_Gundam_EW_Boxart.jpg/revision/latest?cb=20110225124550",
+    "info_text": "The XXXG-01S Shenlong Gundam (aka Shenlong, Nataku, or Gundam Zero-Five) is mobile suit featured in Mobile Suit Gundam Wing. Piloted by Chang Wufei, the unit was later upgraded into Altron Gundam.",
+    "link": "http://gundam.wikia.com/wiki/XXXG-01S_Shenlong_Gundam",
+    "price": "¥3,800",
+    "release_date": "2011 March",
+    "series": "Mobile Suit Gundam Wing: Endless Waltz",
+    "title": "XXXG-01S Shenlong Gundam EW"
+    },
+    {
+    "id": "143",
+    "image": "http://vignette3.wikia.nocookie.net/gundam/images/9/93/Mg_wing_ew.jpg/revision/latest?cb=20120113115426",
+    "info_text": "XXXG-01W Wing Gundam (aka Wing Gundam or Gundam Zero-One) is the titular mobile suit of Gundam Wing. It was developed in the L1 Colony Cluster by the engineer Doctor J as a tool to take revenge on the OZ organization for the assassination of the pacifist leader of the colonies, Heero Yuy. Wing Gundam was used mainly in missions against OZ and the Romefeller Foundation. The unit was primarily piloted by the series' main protagonist Heero Yuy (a teenage boy who was code-named after the martryed pacifist).",
+    "link": "http://gundam.wikia.com/wiki/XXXG-01W_Wing_Gundam",
+    "price": "¥3,500",
+    "release_date": "2011 March",
+    "series": "Mobile Suit Gundam Wing: Endless Waltz",
+    "title": "XXXG-01W Wing Gundam EW"
+    },
+    {
+    "id": "144",
+    "image": "http://vignette2.wikia.nocookie.net/gundam/images/5/55/MG_1-100_00_Raiser_-_Boxart.jpg/revision/latest?cb=20120107051530",
+    "info_text": "The GN-0000+GNR-010 00 Raiser (aka 00 Raiser, 00R), is the combined and mainstay form of GN-0000 00 Gundam and GNR-010 0 Raiser in mid-season 2 of Mobile Suit Gundam 00. The unit is co-piloted by Setsuna F. Seiei and Saji Crossroad.",
+    "link": "http://gundam.wikia.com/wiki/GN-0000%2BGNR-010_00_Raiser",
+    "price": "¥6,500",
+    "release_date": "2011 May",
+    "series": "Mobile Suit Gundam 00",
+    "title": "GN-0000+GNR-010 00 Raiser"
+    },
+    {
+    "id": "145",
+    "image": "http://vignette2.wikia.nocookie.net/gundam/images/a/a3/Mg-epyon.jpg/revision/latest?cb=20121002135322",
+    "info_text": "The OZ-13MS Gundam Epyon is a mobile suit featured in Mobile Suit Gundam Wing. Originally piloted by Heero Yuy, the suit would later be given to Zechs Merquise.",
+    "link": "http://gundam.wikia.com/wiki/OZ-13MS_Gundam_Epyon",
+    "price": "¥4,800",
+    "release_date": "2011 June",
+    "series": "Mobile Suit Gundam Wing: Endless Waltz",
+    "title": "OZ-13MS Gundam Epyon EW"
+    },
+    {
+    "id": "146",
+    "image": "http://vignette4.wikia.nocookie.net/gundam/images/d/d2/Mg_delta_plus_boxart.jpg/revision/latest?cb=20151104070223",
+    "info_text": "The MSN-001A1 Delta Plus (aka δ Plus) is a prototype transformable mobile suit and the variant of the MSN-001 Delta Gundam which appears in the novel and OVA Mobile Suit Gundam Unicorn. The unit is piloted by Riddhe Marcenas.",
+    "link": "http://gundam.wikia.com/wiki/MSN-001A1_Delta_Plus",
+    "price": "¥4,500",
+    "release_date": "2011 August",
+    "series": "Mobile Suit Gundam Unicorn",
+    "title": "MSN-001A1 Delta Plus"
+    },
+    {
+    "id": "147",
+    "image": "http://vignette3.wikia.nocookie.net/gundam/images/b/b4/MG_1_100_GN-0000GNHW7SG.jpg/revision/latest?cb=20110830150202",
+    "info_text": "The GN-0000GNHW/7SG 00 Gundam Seven Sword/G (aka 00 Gundam Seven Sword/G, 00 Seven Sword G), is a variant of the GN-0000/7S 00 Gundam Seven Sword. This unit is piloted by Setsuna F. Seiei. It first appears in Mobile Suit Gundam 00V: Battlefield Record.",
+    "link": "http://gundam.wikia.com/wiki/GN-0000GNHW/7SG_00_Gundam_Seven_Sword/G",
+    "price": "¥5,500",
+    "release_date": "2011 September",
+    "series": "Mobile Suit Gundam 00V: Battlefield Record",
+    "title": "GN-0000GNHW/7SG 00 Gundam Seven Sword/G"
+    },
+    {
+    "id": "148",
+    "image": "http://vignette1.wikia.nocookie.net/gundam/images/8/8e/Mg-sandrock.jpg/revision/latest?cb=20120206112024",
+    "info_text": "The XXXG-0SR Gundam Sandrock (aka Sandrock or Gundam Zero-Four) is a close quarters mobile suit, it is featured in the anime series Mobile Suit Gundam Wing. The unit is piloted by Quatre Raberba Winner.",
+    "link": "http://gundam.wikia.com/wiki/XXXG-01SR_Gundam_Sandrock",
+    "price": "¥3,800",
+    "release_date": "2011 October",
+    "series": "Mobile Suit Gundam Wing: Endless Waltz",
+    "title": "XXXG-01SR Gundam Sandrock EW"
+    },
+    {
+    "id": "149",
+    "image": "http://vignette2.wikia.nocookie.net/gundam/images/3/34/Mg-full-armor-rx0-verka.jpg/revision/latest?cb=20120113115850",
+    "info_text": "The RX-0 Full Armor Unicorn Gundam (aka Full Armor Unicorn, Unicorn) is the RX-0 Unicorn Gundam equipped with a staggering array of weapons. The unit is piloted by Banagher Links.",
+    "link": "http://gundam.wikia.com/wiki/RX-0_Full_Armor_Unicorn_Gundam",
+    "price": "¥8,000",
+    "release_date": "2011 December",
+    "series": "Mobile Suit Gundam Unicorn",
+    "title": "RX-0 Full Armor Unicorn Gundam \"Ver. Ka\""
+    },
+    {
+    "id": "150",
+    "image": "http://vignette3.wikia.nocookie.net/gundam/images/7/7b/Mg-ew-heavyarms.jpg/revision/latest?cb=20120113113222",
+    "info_text": "The XXXG-01H Gundam Heavyarms (aka Heavyarms or Gundam Zero-Three) is a mobile suit from the series Mobile Suit Gundam WIng. It was the third of Operation Meteor's five Gundams. Gundam Heavyarms was piloted by a young man operating under the pseudonym Trowa Barton.",
+    "link": "http://gundam.wikia.com/wiki/XXXG-01H_Gundam_Heavyarms",
+    "price": "¥3,800",
+    "release_date": "2012 January",
+    "series": "Mobile Suit Gundam Wing: Endless Waltz",
+    "title": "XXXG-01H Gundam Heavyarms EW"
+    },
+    {
+    "id": "151",
+    "image": "http://vignette3.wikia.nocookie.net/gundam/images/0/0b/MG_Duel_Gundam_Assaultshroud.jpg/revision/latest?cb=20120211171717",
+    "info_text": "The GAT-X102 Duel Gundam is the first mobile suit developed under the Earth Alliance's \"G Project\" in the Cosmic Era timeline. It was featured in the series Mobile Suit Gundam SEED.",
+    "link": "http://gundam.wikia.com/wiki/GAT-X102_Duel",
+    "price": "¥4,200",
+    "release_date": "2012 February",
+    "series": "Mobile Suit Gundam SEED",
+    "title": "GAT-X102 Duel Gundam w/ Assault Shroud"
+    },
+    {
+    "id": "152",
+    "image": "http://vignette1.wikia.nocookie.net/gundam/images/8/8d/MG_Age1.jpg/revision/latest?cb=20120215085139",
+    "info_text": "The AGE-1 Gundam AGE-1 Normal is one of four titular mobile suits featured in the Flit Arc and Asemu Arc of the Mobile Suit Gundam AGE anime series. The unit was mainly piloted by Flit Asuno and later, it was temporarily piloted by Asemu Asuno.",
+    "link": "http://gundam.wikia.com/wiki/AGE-1_Gundam_AGE-1_Normal",
+    "price": "¥3,500",
+    "release_date": "2012 February",
+    "series": "Mobile Suit Gundam AGE",
+    "title": "AGE-1 Gundam AGE-1 Normal"
+    },
+    {
+    "id": "153",
+    "image": "http://vignette1.wikia.nocookie.net/gundam/images/2/26/Mg_age-1_titus.jpg/revision/latest?cb=20120301043748",
+    "info_text": "The AGE-1T Gundam AGE-1 Titus (aka Titus) is a close combat variant of the AGE-1 Gundam AGE-1 Normal from the Mobile Suit Gundam AGE anime series. It is piloted by Flit Asuno.",
+    "link": "http://gundam.wikia.com/wiki/AGE-1T_Gundam_AGE-1_Titus",
+    "price": "¥3,500",
+    "release_date": "2012 March",
+    "series": "Mobile Suit Gundam AGE",
+    "title": "AGE-1T Gundam AGE-1 Titus"
+    },
+    {
+    "id": "154",
+    "image": "http://vignette2.wikia.nocookie.net/gundam/images/c/c6/Mg_rx-0_unicorn_gundam_02_banshee_boxart_large.jpg/revision/latest?cb=20120512113508",
+    "info_text": "The RX-0 Unicorn Gundam 02 Banshee (aka Banshee) is a mobile suit that appears in Mobile Suit Gundam Unicorn. It is the sister unit of the RX-0 Unicorn Gundam, built alongside the Unicorn under the Earth Federation's UC Project. The unit was originally piloted by Marida Cruz, but was later assigned to Riddhe Marcenas as either this version (in the novel) or its upgraded form, the RX-0[N] Unicorn Gundam 02 Banshee Norn (in the OVA).",
+    "link": "http://gundam.wikia.com/wiki/RX-0_Unicorn_Gundam_02_Banshee",
+    "price": "¥5,500",
+    "release_date": "2012 March",
+    "series": "Mobile Suit Gundam Unicorn",
+    "title": "RX-0 Unicorn Gundam 02 Banshee"
+    },
+    {
+    "id": "155",
+    "image": "http://vignette4.wikia.nocookie.net/gundam/images/b/b2/Mg-spallow-box.jpg/revision/latest?cb=20120404102338",
+    "info_text": "The AGE-1S Gundam AGE-1 Spallow is a high-speed combat variant of the AGE-1 Gundam AGE-1 Normal from the anime series Mobile Suit Gundam AGE. The unit is primary piloted by Flit Asuno.",
+    "link": "http://gundam.wikia.com/wiki/AGE-1S_Gundam_AGE-1_Spallow",
+    "price": "¥3,500",
+    "release_date": "2012 April",
+    "series": "Mobile Suit Gundam AGE",
+    "title": "AGE-1S Gundam AGE-1 Spallow"
+    },
+    {
+    "id": "156",
+    "image": "http://vignette2.wikia.nocookie.net/gundam/images/2/2c/Marasai_Box_Art.jpg/revision/latest?cb=20120502140753",
+    "info_text": "The RMS-108 (MSA-002) Marasai is a second-generation Mobile Suit in the Universal Century timeline. It first appeared in the series Mobile Suit Zeta Gundam.",
+    "link": "http://gundam.wikia.com/wiki/RMS-108_Marasai",
+    "price": "¥4,000",
+    "release_date": "2012 May",
+    "series": "Mobile Suit Zeta Gundam",
+    "title": "RMS-108 Marasai"
+    },
+    {
+    "id": "157",
+    "image": "http://vignette3.wikia.nocookie.net/gundam/images/e/ee/Mg_blitz_boxart.jpg/revision/latest?cb=20120605133242",
+    "info_text": "The GAT-X207 Blitz Gundam is a Mobile Suit featured in Mobile Suit Gundam SEED. The unit is piloted by Nicol Amalfi.",
+    "link": "http://gundam.wikia.com/wiki/GAT-X207_Blitz_Gundam",
+    "price": "¥4,000",
+    "release_date": "2012 June",
+    "series": "Mobile Suit Gundam SEED",
+    "title": "GAT-X207 Blitz Gundam"
+    },
+    {
+    "id": "158",
+    "image": "http://vignette2.wikia.nocookie.net/gundam/images/a/ae/Age-2_boxart.jpg/revision/latest?cb=20120803071526",
+    "info_text": "The AGE-2 Gundam AGE-2 Normal is the successor of the AGE-1 Gundam AGE-1 Normal, appearing in the Asemu Arc of Mobile Suit Gundam AGE. The unit is piloted by Asemu Asuno.",
+    "link": "http://gundam.wikia.com/wiki/AGE-2_Gundam_AGE-2_Normal",
+    "price": "¥4,200",
+    "release_date": "2012 August",
+    "series": "Mobile Suit Gundam AGE",
+    "title": "AGE-2 Gundam AGE-2 Normal"
+    },
+    {
+    "id": "159",
+    "image": "http://vignette4.wikia.nocookie.net/gundam/images/e/ec/MG_Buster_Boxart.jpg/revision/latest?cb=20120827214723",
+    "info_text": "The GAT-X103 Buster Gundam is a prototype artillery mobile suit, the unit is featured in the anime series Mobile Suit Gundam SEED.",
+    "link": "http://gundam.wikia.com/wiki/GAT-X103_Buster_Gundam",
+    "price": "¥4,000",
+    "release_date": "2012 September",
+    "series": "Mobile Suit Gundam SEED",
+    "title": "GAT-X103 Buster Gundam"
+    },
+    {
+    "id": "160",
+    "image": "http://vignette4.wikia.nocookie.net/gundam/images/6/6c/Aegis_Boxart.jpg/revision/latest?cb=20120927080315",
+    "info_text": "The GAT-X303 Aegis Gundam is a prototype transformable mobile weapon, it is featured in the anime series Mobile Suit Gundam SEED. The unit is piloted by Athrun Zala.",
+    "link": "http://gundam.wikia.com/wiki/GAT-X303_Aegis_Gundam",
+    "price": "¥4,800",
+    "release_date": "2012 October",
+    "series": "Mobile Suit Gundam SEED",
+    "title": "GAT-X303 Aegis Gundam"
+    },
+    {
+    "id": "161",
+    "image": "http://vignette1.wikia.nocookie.net/gundam/images/f/ff/DarkHound_MG_Boxart.jpg/revision/latest?cb=20150328111256",
+    "info_text": "The AGE-2DH Gundam AGE-2 Dark Hound is the modified version of the AGE-2 Gundam AGE-2 Normal first featured in the manga Mobile Suit Gundam AGE: Memories of Sid and the Kio Arc and Three Generation Arc of Mobile Suit Gundam AGE. The unit is piloted by the leader of the Space Pirates Bisidian, Captain Ash.",
+    "link": "http://gundam.wikia.com/wiki/AGE-2DH_Gundam_AGE-2_Dark_Hound",
+    "price": "¥4,200",
+    "release_date": "2012 November",
+    "series": "Mobile Suit Gundam AGE",
+    "title": "AGE-2DH Gundam AGE-2 Dark Hound"
+    },
+    {
+    "id": "162",
+    "image": "http://vignette1.wikia.nocookie.net/gundam/images/f/f8/Nu_Gundam_ver_KA_MG_Box_Art.jpg/revision/latest?cb=20121130021050",
+    "info_text": "The RX-93 ν Gundam (aka Nu Gundam, Nu) is a mobile suit that appears in Mobile Suit Gundam: Char's Counterattack. It was designed and piloted by Amuro Ray.",
+    "link": "http://gundam.wikia.com/wiki/RX-93_%CE%BD_Gundam",
+    "price": "¥7,000",
+    "release_date": "2012 December",
+    "series": "Mobile Suit Gundam: Char's Counterattack",
+    "title": "RX-93 ν Gundam \"Ver. Ka\""
+    },
+    {
+    "id": "163",
+    "image": "http://vignette3.wikia.nocookie.net/gundam/images/d/d5/MG_Tallgesse_Box_Art.jpg/revision/latest?cb=20121221080407",
+    "info_text": "The OZ-00MS Tallgeese (aka Tallgeese) is the first in a line of three mobile suits depicted in the Mobile Suit Gundam Wing series. In the anime, it is stated that the first Tallgeese was the original armed mobile suit, and is the common ancestor of both the Gundams and the mass-produced military mobile suits (most notably the OZ-06MS Leo and its variants) depicted. It was first test piloted after its restoration by an OZ soldier named Otto, and later by its most prominent pilot, Zechs Merquise.",
+    "link": "http://gundam.wikia.com/wiki/OZ-00MS_Tallgeese",
+    "price": "¥3,800",
+    "release_date": "2013 January",
+    "series": "Mobile Suit Gundam Wing: Endless Waltz",
+    "title": "OZ-00MS Tallgeese EW"
+    },
+    {
+    "id": "164",
+    "image": "http://vignette4.wikia.nocookie.net/gundam/images/d/d9/MGSinanjuSteinBoxArt.jpg/revision/latest?cb=20130125051109",
+    "info_text": "The MSN-06S Sinanju Stein (aka Sinanju Stein) is a mobile suit featured in the PlayStation 3 video game Mobile Suit Gundam UC and UC-MSV. It is the successor unit to Char Aznable's MSN-04 Sazabi.",
+    "link": "http://gundam.wikia.com/wiki/MSN-06S_Sinanju_Stein",
+    "price": "¥7,000",
+    "release_date": "2013 February",
+    "series": "UC-MSV",
+    "title": "MSN-06S Sinanju Stein \"Ver. Ka\""
+    },
+    {
+    "id": "165",
+    "image": "http://vignette2.wikia.nocookie.net/gundam/images/8/82/Rezel_Defenser_MG_Box_Art.jpg/revision/latest?cb=20130228141234",
+    "info_text": "The RGZ-95C ReZEL Type C [Defenser B-Unit] [GR] is a variant of the RGZ-95C ReZEL Type-C (GR). It first appears in episode 5 of Mobile Suit Gundam Unicorn.",
+    "link": "http://gundam.wikia.com/wiki/RGZ-95C_ReZEL_Type_C_(Defenser_B-Unit)_(GR)",
+    "price": "¥6,500",
+    "release_date": "2013 March",
+    "series": "Mobile Suit Gundam Unicorn",
+    "title": "RGZ-95C ReZEL Type C [Defenser B-Unit] [GR]"
+    },
+    {
+    "id": "166",
+    "image": "http://vignette2.wikia.nocookie.net/gundam/images/9/9d/MG_Sinanju_Boxart.jpg/revision/latest?cb=20151113021257",
+    "info_text": "The MSN-06S Sinanju (aka Sinanju, MSN-06S) is a mobile suit featured in Mobile Suit Gundam Unicorn. It is the modified version of Anaheim Electronics's MSN-06S Sinanju Stein. It is piloted by Full Frontal.",
+    "link": "http://gundam.wikia.com/wiki/MSN-06S_Sinanju",
+    "price": "¥7,500",
+    "release_date": "2013 March",
+    "series": "Mobile Suit Gundam Unicorn",
+    "title": "MSN-06S Sinanju"
+    },
+    {
+    "id": "167",
+    "image": "http://vignette3.wikia.nocookie.net/gundam/images/b/bd/MG_Jesta_Boxart.jpg/revision/latest?cb=20130404183236",
+    "info_text": "The RGM-96X Jesta is a specialized escort and special operations mobile suit featured in Mobile Suit Gundam Unicorn. The RGM-96X is based on the RGM-89 Jegan and is used by the Earth Federation.",
+    "link": "http://gundam.wikia.com/wiki/RGM-96X_Jesta",
+    "price": "¥4,500",
+    "release_date": "2013 April",
+    "series": "Mobile Suit Gundam Unicorn",
+    "title": "RGM-96X Jesta"
+    },
+    {
+    "id": "168",
+    "image": "http://vignette1.wikia.nocookie.net/gundam/images/0/05/MG_Aile_Strike_RM_Boxart.jpg/revision/latest?cb=20130530063356",
+    "info_text": "The GAT-X105+AQM/E-X01 Aile Strike is a prototype high mobility mobile suit, and is featured in Mobile Suit Gundam SEED. Its primary pilot was Kira Yamato before it was passed down to ace pilot Mu La Flaga.",
+    "link": "http://gundam.wikia.com/wiki/GAT-X105%2BAQM/E-X01_Aile_Strike_Gundam",
+    "price": "¥4,200",
+    "release_date": "2013 May",
+    "series": "Mobile Suit Gundam SEED",
+    "title": "GAT-X105+AQM/E-X01 Aile Strike Gundam (Ver. RM)"
+    },
+    {
+    "id": "169",
+    "image": "http://vignette1.wikia.nocookie.net/gundam/images/5/55/MG_Age2_Double_Bullet_Boxart.jpg/revision/latest?cb=20130530063432",
+    "info_text": "The AGE-2DB Gundam AGE-2 Double Bullet is the second wear configuration of the AGE-2 Gundam AGE-2 Normal appearing in the Mobile Suit Gundam AGE anime series. The unit is piloted by Asemu Asuno.",
+    "link": "http://gundam.wikia.com/wiki/AGE-2DB_Gundam_AGE-2_Double_Bullet",
+    "price": "¥4,200",
+    "release_date": "2013 June",
+    "series": "Mobile Suit Gundam AGE",
+    "title": "AGE-2DB Gundam AGE-2 Double Bullet"
+    },
+    {
+    "id": "170",
+    "image": "http://vignette4.wikia.nocookie.net/gundam/images/1/14/Geara_Doga_MG_Boxart.jpg/revision/latest?cb=20130626124005",
+    "info_text": "The AMS-119 Geara Doga is a mass-production general-purpose mobile suit featured in Mobile Suit Gundam: Char's Counterattack and Mobile Suit Gundam Unicorn.",
+    "link": "http://gundam.wikia.com/wiki/AMS-119_Geara_Doga",
+    "price": "¥4,800",
+    "release_date": "2013 July",
+    "series": "Mobile Suit Gundam: Char's Counterattack",
+    "title": "AMS-119 Geara Doga"
+    },
+    {
+    "id": "171",
+    "image": "http://vignette2.wikia.nocookie.net/gundam/images/3/33/MG_Rx-78-2_ver_3.0_Boxart.jpg/revision/latest?cb=20130731134234",
+    "info_text": "The RX-78-2 Gundam (aka the Gundam, White Mobile Suit) is the titular Mobile Suit of Mobile Suit Gundam. Part of the RX-78 Gundam series, it was built in secret on Side 7. The Gundam would turn the tide of war in favor of the Earth Federation during the One Year War against the Principality of Zeon. The unit was primarily piloted by the series' main protagonist Amuro Ray.",
+    "link": "http://gundam.wikia.com/wiki/RX-78-2_Gundam",
+    "price": "¥4,500",
+    "release_date": "2013 August",
+    "series": "Mobile Suit Gundam",
+    "title": "RX-78-2 Gundam Ver. 3.0"
+    },
+    {
+    "id": "172",
+    "image": "http://vignette3.wikia.nocookie.net/gundam/images/f/f2/MG_Strike_Rogue_Ootori.jpg/revision/latest?cb=20151127061059",
+    "info_text": "The MBF-02+EW454F Strike Rouge Ootori is a variant of MBF-02 Strike Rouge and was exclusively featured in the Mobile Suit Gundam SEED Destiny HD Remaster. The unit is primary piloted by the Princess of Orb, Cagalli Yula Athha.",
+    "link": "http://gundam.wikia.com/wiki/MBF-02%2BEW454F_Strike_Rouge_Ootori",
+    "price": "¥4,200",
+    "release_date": "2013 September",
+    "series": "Mobile Suit Gundam SEED Destiny",
+    "title": "MBF-02+EW454F Strike Rouge + Ootori (Ver. RM)"
+    },
+    {
+    "id": "173",
+    "image": "http://vignette2.wikia.nocookie.net/gundam/images/4/45/Master_Grade_Wing_Proto_Zero_Boxart.jpg/revision/latest?cb=20131003183848",
+    "info_text": "The XXXG-00W0 Wing Gundam Zero (aka Wing Zero) is a mobile suit that appears in Mobile Suit Gundam Wing and its sequel OVA/movie Endless Waltz. Though having many pilots during its lifetime, the unit was most famously piloted by the series' main protagonist Heero Yuy.",
+    "link": "http://gundam.wikia.com/wiki/XXXG-00W0_Wing_Gundam_Proto_Zero",
+    "price": "¥4,800",
+    "release_date": "2013 October",
+    "series": "Mobile Suit Gundam Wing: Endless Waltz",
+    "title": "XXXG-00W0 Wing Gundam Proto Zero EW"
+    },
+    {
+    "id": "174",
+    "image": "http://vignette4.wikia.nocookie.net/gundam/images/d/db/MG_Sazabi_ver_KA_new_Boxart.jpg/revision/latest?cb=20131127155308",
+    "info_text": "The MSN-04 Sazabi (aka Sazabi, MSN-04) is a mobile suit that appears in Mobile Suit Gundam: Char's Counterattack. It is piloted by Char Aznable.",
+    "link": "http://gundam.wikia.com/wiki/MSN-04_Sazabi",
+    "price": "¥9,000",
+    "release_date": "2013 December",
+    "series": "Mobile Suit Gundam: Char's Counterattack",
+    "title": "MSN-04 Sazabi \"Ver. Ka\""
+    },
+    {
+    "id": "175",
+    "image": "http://vignette4.wikia.nocookie.net/gundam/images/6/6f/MG_Build_Strike_Box_Art.jpg/revision/latest?cb=20151113052916",
+    "info_text": "The GAT-X105B/FP Build Strike Gundam Full Package is a mobile suit from the anime series Gundam Build Fighters. The Gunpla is built by Sei Iori and primary controlled by Reiji.",
+    "link": "http://gundam.wikia.com/wiki/GAT-X105B/FP_Build_Strike_Gundam_Full_Package",
+    "price": "¥4,200",
+    "release_date": "2014 January",
+    "series": "Gundam Build Fighters",
+    "title": "GAT-X105B/FP Build Strike Gundam Full Package"
+    },
+    {
+    "id": "176",
+    "image": "http://vignette1.wikia.nocookie.net/gundam/images/b/bf/MG_Gundam_X_Boxart.jpg/revision/latest?cb=20131226043045",
+    "info_text": "The GX-9900 Gundam X (aka Gundam X, GX, X) is a mass-produced mobile suit built by the former United Nations Earth, as well as the titular mobile suit of After War Gundam X. There are two feature versions of Gundam X. The primary featured one was piloted by Garrod Ran and later by Jamil Neate, after it was badly damaged in combat and was repaired and rebuilt as GX-9900-DV Gundam X Divider.",
+    "link": "http://gundam.wikia.com/wiki/GX-9900_Gundam_X",
+    "price": "¥3,800",
+    "release_date": "2014 January",
+    "series": "After War Gundam X",
+    "title": "GX-9900 Gundam X"
+    },
+    {
+    "id": "177",
+    "image": "http://vignette3.wikia.nocookie.net/gundam/images/d/dd/MG_Sengoku_Astray_Boxart.jpg/revision/latest?cb=20140203134649",
+    "info_text": "The 侍ノ弐 Sengoku Astray Gundam (戦国アストレイ頑駄無 Sengoku Asutorei Gandamu?) is a mobile suit appearing in the anime series Gundam Build Fighters. Based on the MBF-P02 Gundam Astray Red Frame, the Gunpla is built and controlled by Nils Nielsen.",
+    "link": "http://gundam.wikia.com/wiki/%E4%BE%8D%E3%83%8E%E5%BC%90_Sengoku_Astray_Gundam",
+    "price": "¥5,000",
+    "release_date": "2014 February",
+    "series": "Gundam Build Fighters",
+    "title": "侍ノ弐 Sengoku Astray Gundam"
+    },
+    {
+    "id": "178",
+    "image": "http://vignette2.wikia.nocookie.net/gundam/images/b/b4/MG_Unicorn_Phenex.jpg/revision/latest?cb=20140127055541",
+    "info_text": "The RX-0 Unicorn Gundam 03 Phenex[1] (or CAMS-RX0 G-Phenex) is a mobile suit that appeared in Mobile Suit Gundam UC: One of Seventy Two, a short animation feature at Gundam Front Tokyo's \"DOME-G\" on August 3, 2013. It is based off a short story written by the author of Mobile Suit Gundam Unicorn, Fukui Harutoshi.",
+    "link": "http://gundam.wikia.com/wiki/RX-0_Unicorn_Gundam_03_Phenex",
+    "price": "¥12,000",
+    "release_date": "2014 February",
+    "series": "Mobile Suit Gundam UC: One of Seventy Two",
+    "title": "RX-0 Unicorn Gundam 03 Phenex"
+    },
+    {
+    "id": "179",
+    "image": "http://vignette2.wikia.nocookie.net/gundam/images/0/0c/MG_Build_Gundam_MK2_Boxart.jpg/revision/latest?cb=20140228102936",
+    "info_text": "The RX-178B Build Gundam Mk-II is a mobile suit from the anime series Gundam Build Fighters and a variant of the RX-178 Gundam Mk-II. It is built by Sei Iori as a backup Gunpla, and is piloted by Reiji, and later by Sei himself.",
+    "link": "http://gundam.wikia.com/wiki/RX-178B_Build_Gundam_Mk-II",
+    "price": "¥5,000",
+    "release_date": "2014 March",
+    "series": "Gundam Build Fighters",
+    "title": "RX-178B Build Gundam Mk-II"
+    },
+    {
+    "id": "180",
+    "image": "http://vignette1.wikia.nocookie.net/gundam/images/0/0e/MG_Universal_Booster_Boxart.jpg/revision/latest?cb=20140228102907",
+    "info_text": "The GAT-X105B/ST Star Build Strike Gundam is a mobile suit featured in Gundam Build Fighters, it is an upgraded version of the GAT-X105B/FP Build Strike Gundam Full Package. The Gunpla is built by Sei Iori and primarily controlled by Reiji.",
+    "link": "http://gundam.wikia.com/wiki/GAT-X105B/ST_Star_Build_Strike_Gundam",
+    "price": "¥2,800",
+    "release_date": "2014 March",
+    "series": "Gundam Build Fighters",
+    "title": "UB-01 Universe Booster"
+    },
+    {
+    "id": "181",
+    "image": "http://vignette2.wikia.nocookie.net/gundam/images/1/1d/MG_Turn_X_Boxart.jpg/revision/latest?cb=20150328030216",
+    "info_text": "The CONCEPT-X 6-1-2 Turn X (aka Turn X) is a mobile suit featured in Turn A Gundam. It is piloted by Gym Ghingham.",
+    "link": "http://gundam.wikia.com/wiki/CONCEPT-X_6-1-2_Turn_X",
+    "price": "¥6,000",
+    "release_date": "2014 June",
+    "series": "∀ Gundam",
+    "title": "CONCEPT-X 6-1-2 Turn X"
+    },
+    {
+    "id": "182",
+    "image": "http://vignette2.wikia.nocookie.net/gundam/images/9/9c/MG_Hi-v_ver.ka.jpg/revision/latest?cb=20140808163549",
+    "info_text": "The RX-93-ν2 Hi-ν Gundam (pronounced \"High-New\") is an alternate interpretation of the RX-93 ν Gundam which appears in Mobile Suit Gundam: Beltorchika's Children. It is piloted by Amuro Ray.",
+    "link": "http://gundam.wikia.com/wiki/RX-93-%CE%BD2_Hi-%CE%BD_Gundam",
+    "price": "¥7,000",
+    "release_date": "2014 August",
+    "series": "Mobile Suit Gundam: Char's Counterattack - Beltorchika's Children",
+    "title": "RX-93-ν2 Hi-ν Gundam \"Ver. Ka\""
+    },
+    {
+    "id": "183",
+    "image": "http://vignette2.wikia.nocookie.net/gundam/images/e/e7/MG_Astray_Blue_Frame_D_Boxart.jpg/revision/latest?cb=20160308044732",
+    "info_text": "The MBF-P03D Gundam Astray Blue Frame D is a variant of the Gundam Astray Blue Frame Second L/G in the novel Mobile Suit Gundam SEED Destiny Astray B. It is piloted by Gai Murakumo.",
+    "link": "http://gundam.wikia.com/wiki/MBF-P03D_Gundam_Astray_Blue_Frame_D",
+    "price": "¥5,000",
+    "release_date": "2014 November",
+    "series": "Mobile Suit Gundam SEED Destiny Astray B",
+    "title": "MBF-P03D Gundam Astray Blue Frame D"
+    },
+    {
+    "id": "184",
+    "image": "http://vignette3.wikia.nocookie.net/gundam/images/c/cf/MG_Exia_Dark_Matter_Boxart.jpg/revision/latest?cb=20150411104743",
+    "info_text": "The PPGN-001 Gundam Exia Dark Matter is a modified version of the PPGN-001 Gundam Amazing Exia from the anime series, Gundam Build Fighters. The unit is controlled by Meijin Kawaguchi.",
+    "link": "http://gundam.wikia.com/wiki/PPGN-001_Gundam_Exia_Dark_Matter",
+    "price": "¥5,000",
+    "release_date": "2015 February",
+    "series": "Gundam Build Fighters",
+    "title": "PPGN-001 Gundam Exia Dark Matter"
+    },
+    {
+    "id": "185",
+    "image": "http://vignette1.wikia.nocookie.net/gundam/images/e/eb/MG_Gundam_Double_X.jpg/revision/latest?cb=20150326081528",
+    "info_text": "The GX-9901-DX Gundam Double X (aka Gundam DX, Double X, DX) is a mobile suit produced by the New United Nations Earth in After War Gundam X, piloted by Garrod Ran.",
+    "link": "http://gundam.wikia.com/wiki/GX-9901-DX_Gundam_Double_X",
+    "price": "¥4,500",
+    "release_date": "2015 March",
+    "series": "After War Gundam X",
+    "title": "GX-9901-DX Gundam Double X"
+    },
+    {
+    "id": "186",
+    "image": "http://vignette3.wikia.nocookie.net/gundam/images/d/d4/MG_Hyaku_Shiki_Ver._2.0.jpg/revision/latest?cb=20150428034242",
+    "info_text": "The MSN-00100 (MSN-100, MSN-001) Hyaku Shiki is a prototype attack use Mobile Suit from the Universal Century timeline. The unit was featured in Mobile Suit Zeta Gundam and Mobile Suit Gundam ZZ. It was primarily piloted by Quattro Bajeena (Zeta) and Beecha Oleg (ZZ).",
+    "link": "http://gundam.wikia.com/wiki/MSN-00100_Hyaku_Shiki",
+    "price": "¥6,800",
+    "release_date": "2015 May",
+    "series": "Mobile Suit Zeta Gundam",
+    "title": "MSN-00100 Hyaku Shiki Ver. 2.0"
+    },
+    {
+    "id": "187",
+    "image": "http://vignette3.wikia.nocookie.net/gundam/images/e/e3/MG_Gundam_Fenice_Rinascita.jpg/revision/latest?cb=20150529093602",
+    "info_text": "The XXXG-01Wfr Gundam Fenice Rinascita is a custom Gunpla and the successor of the XXXG-01Wf Wing Gundam Fenice from the anime series, Gundam Build Fighters. The Gunpla is modeled and primary controlled by Ricardo Fellini.",
+    "link": "http://gundam.wikia.com/wiki/XXXG-01Wfr_Gundam_Fenice_Rinascita",
+    "price": "¥4,800",
+    "release_date": "2015 June",
+    "series": "Gundam Build Fighters",
+    "title": "XXXG-01Wfr Gundam Fenice Rinascita"
+    },
+    {
+    "id": "188",
+    "image": "http://vignette2.wikia.nocookie.net/gundam/images/8/8e/Mg_Gundam_Amazing_Red_Warrior.jpg/revision/latest?cb=20150731143542",
+    "info_text": "The PF-78-3A Gundam Amazing Red Warrior is a mobile suit from the anime series Gundam Build Fighters Try. It is a variant of the PF-78-3 Perfect Gundam III.",
+    "link": "http://gundam.wikia.com/wiki/PF-78-3A_Gundam_Amazing_Red_Warrior",
+    "price": "¥4,800",
+    "release_date": "2015 August",
+    "series": "Gundam Build Fighters Try",
+    "title": "PF-78-3A Gundam Amazing Red Warrior"
+    },
+    {
+    "id": "189",
+    "image": "http://vignette3.wikia.nocookie.net/gundam/images/6/65/MG-GundamOrigin.jpg/revision/latest?cb=20151113052649",
+    "info_text": "The RX-78-02 Gundam is a prototype mobile suit featured in the Mobile Suit Gundam: The Origin manga adaptation of the original TV series. It is an alternate interpretation of the RX-78-2 Gundam.",
+    "link": "http://gundam.wikia.com/wiki/RX-78-02_Gundam",
+    "price": "¥4,600",
+    "release_date": "2015 November",
+    "series": "Mobile Suit Gundam: The Origin",
+    "title": "RX-78-02 Gundam The Origin"
+    },
+    {
+    "id": "190",
+    "image": "http://vignette2.wikia.nocookie.net/gundam/images/2/2d/MG_Victory_2_Gundam_Ver.Ka.jpg/revision/latest?cb=20151202082042",
+    "info_text": "The LM314V21 Victory 2 Gundam (aka Victory 2, V2, LM314V21) is the successor of the LM312V04 Victory Gundam featured in Mobile Suit Victory Gundam. It is piloted by Uso Ewin.",
+    "link": "http://gundam.wikia.com/wiki/LM314V21_Victory_2_Gundam",
+    "price": "¥4,800",
+    "release_date": "2015 December",
+    "series": "Mobile Suit Victory Gundam",
+    "title": "LM314V21 Victory Two Gundam \"Ver.Ka\""
+    },
+    {
+    "id": "191",
+    "image": "http://vignette2.wikia.nocookie.net/gundam/images/0/0e/MGFreedomGundam2.0.jpg",
+    "info_text": "The ZGMF-X10A Freedom Gundam (aka Freedom, X10A) is a mobile suit that appears in Mobile Suit Gundam SEED and Mobile Suit Gundam SEED Destiny. The unit is piloted by Kira Yamato.",
+    "link": "http://gundam.wikia.com/wiki/ZGMF-X10A_Freedom_Gundam",
+    "price": "¥4,600",
+    "release_date": "2016 April",
+    "series": "Mobile Suit Gundam SEED",
+    "title": "ZGMF-X10A Freedom Gundam Ver. 2.0"
+    }
+    ]
