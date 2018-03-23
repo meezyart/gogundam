@@ -1,6 +1,6 @@
-# Go Gundam Sample E-Commerace page
+# Go Gundam Sample E-Commerce page
 
-A Simple React E-commerace component
+A Simple React E-Commerce component
 personal project to get more practice with GraphQL
 
 *work in progress*
